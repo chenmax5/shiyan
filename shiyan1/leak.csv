@@ -1,0 +1,998 @@
+ Apache Airflow命令注入漏洞（CNVD-2023-05224）	高	2023-01-30 00:00:00
+ Apache HTTP Server输入验证错误漏洞（CNVD-2024-36390）	高	2024-08-27 00:00:00
+ IBM Content Navigator路径遍历漏洞	中	2024-03-22 00:00:00
+ WordPress Multisite Content Copier/Updater plugin跨站脚本漏洞	中	2023-01-28 00:00:00
+ WordPress plugin 0mk Shortener跨站请求伪造漏洞	高	2023-02-16 00:00:00
+ 北京亿赛通科技发展有限责任公司数据泄露防护(DLP)系统存在任意文件读取漏洞	中	2024-03-22 00:00:00
+ 四川众望升腾科技有限公司学工管理系统存在SQL注入漏洞（CNVD-2023-59159）	高	2023-07-10 00:00:00
+ 安徽青柿信息科技有限公司LiveNVR存在未授权访问漏洞（CNVD-2023-77604）	中	2023-10-27 00:00:00
+ 浙江大华技术股份有限公司智慧园区综合管理平台存在文件上传漏洞（CNVD-2023-16897）	高	2023-03-23 00:00:00
+ 浙江大华技术股份有限公司智慧园区综合管理平台存在文件上传漏洞（CNVD-2024-35419）	高	2024-09-02 00:00:00
+ 深圳希施玛数据科技有限公司实训教学平台（以渔有方）存在目录遍历漏洞	中	2024-01-09 00:00:00
+Adobe Acrobat Reader资源管理错误漏洞（CNVD-2024-38534）	中	2024-09-20 00:00:00
+Adobe Commerce XML外部实体注入漏洞	高	2024-06-26 00:00:00
+Adobe Commerce授权问题漏洞（CNVD-2024-28954）	高	2024-06-26 00:00:00
+Adobe Commerce授权问题漏洞（CNVD-2024-28956）	中	2024-06-26 00:00:00
+Adobe Commerce文件上传漏洞	高	2024-06-26 00:00:00
+Adobe Commerce访问控制错误漏洞	中	2024-06-26 00:00:00
+Adobe Commerce跨站脚本漏洞（CNVD-2024-28955）	中	2024-06-26 00:00:00
+Adobe Commerce身份验证错误漏洞	高	2024-06-26 00:00:00
+Adobe Commerce输入验证错误漏洞（CNVD-2024-28958）	高	2024-06-26 00:00:00
+Adobe Commerce输入验证错误漏洞（CNVD-2024-28959）	高	2024-06-26 00:00:00
+Adobe Experience Manager URL重定向漏洞（CNVD-2023-45904）	中	2023-06-13 00:00:00
+Adobe Experience Manager URL重定向漏洞（CNVD-2023-45905）	中	2023-06-13 00:00:00
+Adobe Experience Manager URL重定向漏洞（CNVD-2023-45906）	中	2023-06-12 00:00:00
+Adobe Experience Manager URL重定向漏洞（CNVD-2023-45907）	中	2023-06-13 00:00:00
+Adobe Experience Manager URL重定向漏洞（CNVD-2023-45908）	中	2023-06-12 00:00:00
+Adobe Experience Manager URL重定向漏洞（CNVD-2023-45909）	中	2023-06-12 00:00:00
+Adobe Experience Manager URL重定向漏洞（CNVD-2023-45910）	中	2023-06-12 00:00:00
+Adobe Experience Manager URL重定向漏洞（CNVD-2023-45911）	中	2023-06-12 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2023-45912）	中	2023-06-12 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2023-45913）	中	2023-06-12 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2023-9963739）	中	2023-12-21 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-0118241）	中	2024-01-10 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-0118338）	中	2024-01-10 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-0118434）	中	2024-01-10 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-0118532）	中	2024-01-10 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-0118629）	中	2024-01-10 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-0297712）	中	2024-01-17 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-02978）	中	2024-01-17 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-0298202）	中	2024-01-17 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-0298499）	中	2024-01-17 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-04934）	中	2024-01-24 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-04935）	中	2024-01-24 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-0625818）	中	2024-01-17 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-0625917）	中	2024-01-17 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-0626015）	中	2024-01-17 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-0626113）	中	2024-01-17 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-14653）	中	2024-03-25 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-17894）	中	2024-04-15 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-17895）	中	2024-04-15 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-17896）	中	2024-04-15 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-17897）	中	2024-04-15 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-37806）	中	2024-09-10 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-37807）	中	2024-09-10 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-37808）	中	2024-09-10 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-37809）	中	2024-09-10 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-37810）	中	2024-09-10 00:00:00
+Adobe Experience Manager跨站脚本漏洞（CNVD-2024-37811）	中	2024-09-10 00:00:00
+Adobe Experience Manager输入验证错误漏洞（CNVD-2024-37805）	中	2024-09-10 00:00:00
+AeroCMS跨站脚本漏洞（CNVD-2023-32025）	中	2023-04-26 00:00:00
+Air Cargo Management System跨站脚本漏洞	低	2023-04-27 00:00:00
+AJ-Report SQL注入漏洞（CNVD-2024-27556）	中	2024-06-18 00:00:00
+AJ-Report服务器端请求伪造漏洞	高	2024-06-07 00:00:00
+Alluxio跨站脚本漏洞	中	2023-11-28 00:00:00
+answer信息泄露漏洞（CNVD-2023-29790）	高	2023-04-20 00:00:00
+answer访问控制错误漏洞（CNVD-2023-29700）	中	2023-04-20 00:00:00
+Answer跨站脚本漏洞（CNVD-2023-31162）	中	2023-04-27 00:00:00
+Apache Airflow FTP Provider信任管理问题漏洞	高	2024-04-29 00:00:00
+Apache Airflow信息泄露漏洞（CNVD-2024-22234）	中	2024-05-13 00:00:00
+Apache Airflow信息泄露漏洞（CNVD-2024-26539）	中	2024-06-14 00:00:00
+Apache Airflow信息泄露漏洞漏洞（CNVD-2024-13567）	中	2024-03-18 00:00:00
+Apache Airflow安全绕过漏洞（CNVD-2024-26538）	中	2024-06-14 00:00:00
+Apache Airflow授权问题漏洞（CNVD-2023-67070）	高	2023-08-15 00:00:00
+Apache Airflow授权问题漏洞（CNVD-2023-93318）	中	2023-11-28 00:00:00
+Apache Airflow跨站脚本漏洞（CNVD-2024-0101622）	中	2024-01-08 00:00:00
+Apache Airflow跨站请求伪造漏洞（CNVD-2024-0101720）	高	2024-01-08 00:00:00
+Apache Ambari跨站脚本漏洞（CNVD-2024-22235）	中	2024-05-13 00:00:00
+Apache Answer安全绕过漏洞	高	2024-08-20 00:00:00
+Apache Answer安全绕过漏洞（CNVD-2024-35661）	高	2024-08-20 00:00:00
+Apache Arrow Rust Object Store日志信息泄露漏洞	中	2024-07-29 00:00:00
+Apache CloudStack信息泄露漏洞（CNVD-2024-35665）	中	2024-08-20 00:00:00
+Apache CloudStack安全绕过漏洞（CNVD-2024-33812）	高	2024-07-29 00:00:00
+Apache DolphinScheduler输入验证错误漏洞	高	2023-01-30 00:00:00
+Apache DolphinScheduler输入验证错误漏洞（NVD-C-2024-618180）	高	2024-08-20 00:00:00
+Apache Fineract SQL注入漏洞（CNVD-2024-16106）	高	2024-04-03 00:00:00
+Apache Fineract SQL注入漏洞（CNVD-2024-16107）	高	2024-04-03 00:00:00
+Apache Fineract权限提升漏洞	中	2024-04-03 00:00:00
+Apache Hertzbeat SQL注入漏洞	高	2024-09-29 00:00:00
+Apache HTTP Server代码执行漏洞	高	2024-08-28 00:00:00
+Apache HTTP Server代码问题漏洞（CNVD-2024-36389）	高	2024-08-28 00:00:00
+Apache HTTP Server信息泄露漏洞（CNVD-2024-33815）	中	2024-07-29 00:00:00
+Apache HTTP Server信息泄露漏洞（CNVD-2024-36391）	高	2024-08-27 00:00:00
+Apache HTTP Server响应拆分漏洞（CNVD-2024-36394）	高	2024-08-26 00:00:00
+Apache HTTP Server服务端请求伪造漏洞	中	2024-08-27 00:00:00
+Apache HTTP Server空指针解引用漏洞	中	2024-08-27 00:00:00
+Apache NiFi跨站脚本漏洞（CNVD-2023-9665850）	中	2023-12-13 00:00:00
+Apache OFBiz访问控制错误漏洞	中	2023-11-28 00:00:00
+Apache OFBiz路径遍历漏洞（CNVD-2024-26187）	高	2024-06-06 00:00:00
+Apache Pulsar WebSocket Proxy拒绝服务漏洞	高	2024-01-08 00:00:00
+Apache RocketMQ信息泄露漏洞	中	2024-07-29 00:00:00
+Apache Roller跨站脚本漏洞（CNVD-2024-35670）	中	2024-08-19 00:00:00
+Apache Storm信息泄露漏洞（CNVD-2023-9666324）	中	2023-12-13 00:00:00
+Apache StreamPark SQL注入漏洞（CNVD-2024-35191）	高	2024-08-14 00:00:00
+Apache StreamPark代码注入漏洞	高	2024-08-15 00:00:00
+Apache StreamPark命令注入漏洞（CNVD-2024-33577）	中	2024-07-23 00:00:00
+Apache Submarine SQL注入漏洞	高	2023-12-15 00:00:00
+Apache Superset SQL注入漏洞（CNVD-2024-0102192）	中	2024-01-08 00:00:00
+Apache Superset SQL注入漏洞（CNVD-2024-26534）	中	2024-06-14 00:00:00
+Apache Superset SQL注入漏洞（CNVD-2024-26537）	中	2024-06-14 00:00:00
+Apache Superset SQL注入漏洞（CNVD-2024-35190）	中	2024-08-14 00:00:00
+Apache Superset信息泄露漏洞（CNVD-2023-43870）	中	2023-04-28 00:00:00
+Apache Superset信息泄露漏洞（CNVD-2023-9666229）	中	2023-12-13 00:00:00
+Apache Superset信息泄露漏洞（CNVD-2024-26535）	中	2024-06-14 00:00:00
+Apache Superset安全绕过漏洞（CNVD-2024-26536）	中	2024-06-14 00:00:00
+Apache Superset拒绝服务漏洞	中	2024-02-01 00:00:00
+Apache Superset授权问题漏洞（CNVD-2023-9666047）	中	2023-12-13 00:00:00
+Apache Superset权限提升漏洞	中	2024-01-08 00:00:00
+Apache Superset访问控制错误漏洞（CNVD-2023-05217）	中	2023-01-30 00:00:00
+Apache Superset跨站脚本漏洞（CNVD-2023-05219）	中	2023-01-30 00:00:00
+Apache Superset跨站脚本漏洞（CNVD-2023-05220）	中	2023-01-30 00:00:00
+Apache Superset跨站脚本漏洞（CNVD-2023-96659）	中	2023-12-13 00:00:00
+Apache Superset跨站脚本漏洞（CNVD-2024-06442）	高	2024-02-01 00:00:00
+Apache Superset跨站请求伪造漏洞	高	2023-01-30 00:00:00
+Apache Superset输入验证错误漏洞（CNVD-2023-96661）	中	2023-12-13 00:00:00
+Apache Syncope输入验证错误漏洞	中	2024-07-29 00:00:00
+Apache Tomcat信息泄露漏洞（CNVD-2023-67080）	高	2023-06-29 00:00:00
+Apache Tomcat开放重定向漏洞（CNVD-2023-80565）	中	2023-10-27 00:00:00
+Apache Tomcat拒绝服务漏洞（CNVD-2024-13569）	高	2024-03-18 00:00:00
+Apache Tomcat输入验证错误漏洞	高	2024-03-18 00:00:00
+Apache ZooKeeper信息泄露漏洞（CNVD-2024-22232）	中	2024-05-13 00:00:00
+Badaso跨站脚本漏洞	中	2023-08-31 00:00:00
+baserCMS代码注入漏洞	中	2023-11-28 00:00:00
+baserCMS跨站请求伪造漏洞（CNVD-2023-86125）	中	2023-11-14 00:00:00
+baserCMS路径遍历漏洞（CNVD-2023-86331）	中	2023-11-14 00:00:00
+Best Courier Management System跨站脚本漏洞（CNVD-2023-9815720）	中	2023-12-13 00:00:00
+BigTree CMS跨站脚本漏洞（CNVD-2023-93329）	中	2023-11-28 00:00:00
+Bolt CMS跨站脚本漏洞（CNVD-2024-35158）	中	2024-08-08 00:00:00
+Bolt CMS跨站脚本漏洞（CNVD-2024-35159）	中	2024-08-08 00:00:00
+Campcodes Advanced Online Voting System SQL注入漏洞（CNVD-2023-29411）	中	2023-04-20 00:00:00
+Campcodes Coffee Shop POS System SQL注入漏洞	高	2023-05-18 00:00:00
+Campcodes Coffee Shop POS System SQL注入漏洞（CNVD-2023-38605）	高	2023-05-18 00:00:00
+Campcodes Coffee Shop POS System SQL注入漏洞（CNVD-2023-38606）	高	2023-05-18 00:00:00
+Campcodes Coffee Shop POS System SQL注入漏洞（CNVD-2023-38607）	高	2023-05-18 00:00:00
+Campcodes Coffee Shop POS System SQL注入漏洞（CNVD-2023-38609）	高	2023-05-18 00:00:00
+Campcodes Coffee Shop POS System跨站脚本漏洞	中	2023-05-18 00:00:00
+Campcodes Online Traffic Offense Management System SQL注入漏洞	中	2023-04-20 00:00:00
+Campcodes Online Traffic Offense Management System跨站脚本漏洞	中	2023-04-20 00:00:00
+Campcodes Online Traffic Offense Management System跨站脚本漏洞（CNVD-2023-29408）	中	2023-04-20 00:00:00
+Canteen Management System SQL注入漏洞（CNVD-2023-08051）	中	2023-02-10 00:00:00
+ChatEngine SQL注入漏洞	高	2023-07-26 00:00:00
+ChurchCRM CSV注入漏洞	高	2023-08-23 00:00:00
+Churchcrm SQL注入漏洞	高	2023-08-08 00:00:00
+ChurchCRM SQL注入漏洞（CNVD-2023-64496）	高	2023-08-23 00:00:00
+ChurchCRM SQL注入漏洞（CNVD-2024-35168）	高	2024-08-06 00:00:00
+ChurchCRM存在未明漏洞（CNVD-2024-35648）	高	2024-08-15 00:00:00
+ChurchCRM跨站脚本漏洞（CNVD-2023-64218）	中	2023-08-21 00:00:00
+ChurchCRM跨站脚本漏洞（CNVD-2023-64493）	中	2023-08-23 00:00:00
+ChurchCRM跨站脚本漏洞（CNVD-2023-64494）	中	2023-08-23 00:00:00
+ChurchCRM跨站脚本漏洞（CNVD-2023-64495）	中	2023-08-23 00:00:00
+Cisco Identity Services Engine XML外部实体注入漏洞（CNVD-2023-40183）	中	2023-05-23 00:00:00
+Cisco Identity Services Engine任意文件下载漏洞	中	2023-05-23 00:00:00
+Cisco Identity Services Engine任意文件写入漏洞	高	2023-11-30 00:00:00
+Cisco Identity Services Engine任意文件删除漏洞	中	2023-05-23 00:00:00
+Cisco Identity Services Engine任意文件读取漏洞	中	2023-05-23 00:00:00
+Cisco Identity Services Engine命令注入漏洞（CNVD-2023-40185）	中	2023-05-23 00:00:00
+Cisco Identity Services Engine命令注入漏洞（CNVD-2023-40187）	高	2023-05-23 00:00:00
+Cisco Identity Services Engine命令注入漏洞（CNVD-2024-24745）	中	2024-05-16 00:00:00
+Cisco Identity Services Engine授权绕过漏洞（CNVD-2023-40191）	中	2023-05-23 00:00:00
+Cisco Identity Services Engine路径遍历漏洞	中	2023-05-23 00:00:00
+Cisco Identity Services Engine路径遍历漏洞（CNVD-2023-40186）	中	2023-05-23 00:00:00
+Cisco Nexus Dashboard权限提升漏洞	中	2024-04-12 00:00:00
+Cisco Nexus Dashboard访问控制错误漏洞（CNVD-2024-20827）	中	2024-04-12 00:00:00
+Cisco Unity Connection任意文件上传漏洞	高	2024-02-22 00:00:00
+Cisco Unity Connection跨站脚本漏洞（CNVD-2024-10470）	中	2024-02-22 00:00:00
+Class Scheduling System跨站脚本漏洞	中	2023-05-26 00:00:00
+CLTPHP跨站脚本漏洞	中	2023-05-06 00:00:00
+CLTPHP输入验证错误漏洞	高	2023-05-06 00:00:00
+Complaint Management System SQL注入漏洞（CNVD-2023-29364）	中	2023-04-21 00:00:00
+Complaint Management System跨站脚本漏洞	中	2023-04-27 00:00:00
+Computer Laboratory Management System SQL注入漏洞	中	2024-08-15 00:00:00
+Craft CMS访问控制错误漏洞	中	2024-08-09 00:00:00
+CraftCMS代码注入漏洞	高	2023-05-26 00:00:00
+CSZCMS SQL注入漏洞（CNVD-2023-64217）	高	2023-08-21 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-11124）	中	2024-03-02 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-11125）	中	2024-03-02 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-11126）	中	2024-03-02 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-11127）	中	2024-03-02 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-11128）	中	2024-03-02 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-11129）	中	2024-03-02 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-11130）	中	2024-03-02 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-11132）	中	2024-03-02 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-11133）	中	2024-03-02 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-11134）	中	2024-03-02 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-11139）	中	2024-03-03 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-11140）	中	2024-03-03 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-11141）	中	2024-03-03 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-12208）	中	2024-03-07 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-13107）	中	2024-03-15 00:00:00
+Cups Easy跨站脚本漏洞（CNVD-2024-13796）	中	2024-03-18 00:00:00
+Customer Support System SQL注入漏洞（CNVD-2024-14034）	中	2024-03-20 00:00:00
+Cybozu Garoon信息泄露漏洞（CNVD-2024-29669）	中	2024-07-05 00:00:00
+Cybozu Garoon信息泄露漏洞（CNVD-2024-29670）	中	2024-07-05 00:00:00
+Cybozu Garoon信息泄露漏洞（CNVD-2024-29673）	中	2024-07-05 00:00:00
+Cybozu Garoon安全绕过漏洞（CNVD-2024-29666）	中	2024-07-05 00:00:00
+Cybozu Garoon安全绕过漏洞（CNVD-2024-29667）	中	2024-07-05 00:00:00
+Cybozu Garoon拒绝服务漏洞（CNVD-2024-29668）	中	2024-07-05 00:00:00
+Cybozu Garoon资源管理错误漏洞	中	2024-07-05 00:00:00
+Cybozu Garoon跨站脚本漏洞（CNVD-2024-29671）	中	2024-07-05 00:00:00
+Database Backup for WordPress存在SQL注入漏洞	中	2023-07-04 00:00:00
+DedeBIZ代码执行漏洞	高	2023-10-26 00:00:00
+DedeBIZ跨站脚本漏洞	中	2023-08-15 00:00:00
+Dell Data Lakehouse加密问题漏洞	中	2024-09-04 00:00:00
+Dell ESI for SAP LAMA信息泄露漏洞	高	2024-03-04 00:00:00
+Dell OpenManage Enterprise存在未明漏洞	中	2024-05-29 00:00:00
+Dell OpenManage Enterprise跨站脚本漏洞	中	2024-05-29 00:00:00
+Dell PowerProtect Data Domain开放重定向漏洞	中	2024-07-09 00:00:00
+Dell PowerProtect Data Domain操作系统命令注入漏洞（CNVD-2024-31085）	高	2024-07-09 00:00:00
+Dell PowerProtect Data Domain服务器端请求伪造漏洞	中	2024-07-09 00:00:00
+Dell PowerProtect Data Domain资源控制不当漏洞	中	2024-07-09 00:00:00
+Dell PowerProtect Data Domain跨站脚本漏洞	中	2024-07-09 00:00:00
+Dell Unity跨站脚本漏洞	中	2024-03-04 00:00:00
+Delta Electronics InfraSuite Device Master反序列化漏洞	中	2023-04-07 00:00:00
+Delta Electronics InfraSuite Device Master反序列化漏洞（CNVD-2023-23883）	高	2023-04-06 00:00:00
+Delta Electronics InfraSuite Device Master命令注入漏洞	高	2023-04-07 00:00:00
+Delta Electronics InfraSuite Device Master存在未明漏洞	高	2023-04-06 00:00:00
+Delta Electronics InfraSuite Device Master授权问题漏洞	中	2023-04-07 00:00:00
+Delta Electronics InfraSuite Device Master访问控制错误漏洞	高	2023-04-07 00:00:00
+Delta Electronics InfraSuite Device Master访问控制错误漏洞（CNVD-2023-23889）	高	2023-04-07 00:00:00
+Delta Electronics InfraSuite Device Master路径遍历漏洞	高	2023-04-07 00:00:00
+Delta Electronics InfraSuite Device Master路径遍历漏洞（CNVD-2023-23884）	高	2023-04-06 00:00:00
+Delta Electronics InfraSuite Device Master身份验证错误漏洞	高	2023-04-07 00:00:00
+DerbyNet order参数跨站脚本漏洞	中	2024-08-16 00:00:00
+DerbyNet racerid参数跨站脚本漏洞	中	2024-08-16 00:00:00
+Diafan CMS跨站脚本漏洞	中	2023-10-23 00:00:00
+DirCMS跨站脚本漏洞	中	2023-04-27 00:00:00
+Discourse信息泄露漏洞（CNVD-2023-07923）	中	2023-02-10 00:00:00
+Discourse信息泄露漏洞（CNVD-2024-09870）	中	2024-02-22 00:00:00
+Discourse存在未明漏洞（CNVD-2024-14089）	中	2024-03-22 00:00:00
+Discourse拒绝服务漏洞	高	2024-03-22 00:00:00
+Discourse跨站脚本漏洞（CNVD-2023-60471）	中	2023-07-27 00:00:00
+Document Management System SQL注入漏洞	中	2024-08-15 00:00:00
+DoraCMS跨站脚本漏洞（CNVD-2023-9750397）	中	2023-12-12 00:00:00
+Dreamer CMS跨站脚本漏洞（CNVD-2023-9769142）	中	2023-12-15 00:00:00
+Dreamer CMS跨站请求伪造漏洞（CNVD-2024-0021652）	高	2024-01-04 00:00:00
+Dreamer CMS跨站请求伪造漏洞（CNVD-2024-13543）	中	2024-03-14 00:00:00
+Drupal路径遍历漏洞	中	2023-05-06 00:00:00
+EduSoho企培开源版存在未授权访问漏洞	中	2023-09-02 00:00:00
+Emlog Pro授权问题漏洞	低	2024-05-30 00:00:00
+emlog SQL注入漏洞	中	2023-08-24 00:00:00
+Emlog存在未明漏洞（CNVD-2023-9918065）	高	2023-12-21 00:00:00
+Employee Management System SQL注入漏洞（CNVD-2024-30066）	中	2024-06-20 00:00:00
+Eolinker goku_lite SQL注入漏洞	高	2023-03-22 00:00:00
+Eolinker SQL注入漏洞	高	2023-03-31 00:00:00
+Event Management System SQL注入漏洞	高	2023-02-16 00:00:00
+Evolution CMS跨站脚本漏洞（CNVD-2023-85602）	中	2023-11-10 00:00:00
+Expense Management System跨站脚本漏洞	中	2024-02-22 00:00:00
+EyouCms跨站脚本漏洞（CNVD-2023-36287）	中	2023-05-11 00:00:00
+EyouCMS跨站脚本漏洞（CNVD-2023-49807）	中	2023-06-18 00:00:00
+F5 BIG-IP iControl安全绕过漏洞	高	2023-10-11 00:00:00
+F5 BIG-IP信息泄露漏洞（CNVD-2023-75595）	中	2023-10-11 00:00:00
+F5 BIG-IP信息泄露漏洞（CNVD-2023-75596）	中	2023-10-11 00:00:00
+F5 BIG-IP信息泄露漏洞（CNVD-2023-75598）	中	2023-10-11 00:00:00
+F5 BIG-IP拒绝服务漏洞（CNVD-2023-75597）	中	2023-10-11 00:00:00
+F5 BIG-IP配置实用程序目录遍历漏洞	高	2023-10-11 00:00:00
+facileManager跨站脚本漏洞	中	2024-05-09 00:00:00
+Faculty Evaluation System SQL注入漏洞	高	2023-05-26 00:00:00
+FastCMS跨站脚本漏洞（CNVD-2024-38571）	中	2024-09-19 00:00:00
+FeehiCMS代码问题漏洞（CNVD-2024-37609）	中	2024-09-05 00:00:00
+FeehiCMS任意文件上传漏洞（CNVD-2023-58819）	高	2023-07-27 00:00:00
+File Tracker Manager System SQL注入漏洞	中	2023-05-25 00:00:00
+FlatPress存在未明漏洞	高	2023-02-03 00:00:00
+FlatPress跨站脚本漏洞（CNVD-2023-06528）	中	2023-02-03 00:00:00
+FlatPress跨站脚本漏洞（CNVD-2023-06529）	中	2023-02-03 00:00:00
+FleetCart信息泄露漏洞	中	2024-06-06 00:00:00
+flusity CMS任意文件上传漏洞	中	2023-11-14 00:00:00
+FlyCms跨站请求伪造漏洞	高	2024-01-26 00:00:00
+Food Ordering System SQL注入漏洞	高	2023-07-26 00:00:00
+ForestBlog任意文件上传漏洞	中	2023-12-21 00:00:00
+FormaLMS跨站脚本漏洞	中	2023-12-13 00:00:00
+Fortinet FortiManager访问控制错误漏洞（CNVD-2024-13750）	高	2024-03-18 00:00:00
+Fortinet FortiManager访问控制错误漏洞（CNVD-2024-24739）	高	2024-05-14 00:00:00
+Fortinet FortiRecorder资源管理错误漏洞	高	2023-04-27 00:00:00
+Fortinet FortiSIEM信息泄露漏洞（CNVD-2023-98186）	中	2023-12-21 00:00:00
+Fortinet FortiSIEM命令执行漏洞（CNVD-2024-13756）	高	2024-03-18 00:00:00
+ForU CMS SQL注入漏洞	高	2024-01-26 00:00:00
+Free Hospital Management System SQL注入漏洞	高	2023-10-20 00:00:00
+Geeklog router.php跨站脚本漏洞	中	2023-11-03 00:00:00
+Geeklog跨站脚本漏洞	中	2023-12-28 00:00:00
+Gila CMS Area参数SQL注入漏洞	中	2024-01-31 00:00:00
+GIT存在服务参数注入漏洞	高	2023-07-15 00:00:00
+Google Chrome安全绕过漏洞（CNVD-2024-13762）	中	2024-03-18 00:00:00
+gougucms跨站脚本漏洞	中	2023-11-14 00:00:00
+Grafana信息泄露漏洞（CNVD-2023-36311）	中	2023-05-06 00:00:00
+Guest Management System跨站脚本漏洞（CNVD-2023-41504）	中	2023-05-25 00:00:00
+Haxx curl安全绕过漏洞	中	2024-05-09 00:00:00
+HCL Technologies HCL Connections中断访问控制漏洞	中	2024-05-06 00:00:00
+HCL Technologies HCL Connections用户枚举漏洞	中	2024-05-06 00:00:00
+HongCMS跨站脚本漏洞（CNVD-2023-36284）	中	2023-05-11 00:00:00
+Hospital Management System SQL注入漏洞（CNVD-2023-64629）	高	2023-08-24 00:00:00
+Hospital Management System SQL注入漏洞（CNVD-2023-64634）	中	2023-08-23 00:00:00
+Hospital Management System跨站脚本漏洞（CNVD-2024-06175）	中	2024-01-26 00:00:00
+Hotel Management System adults参数跨站脚本漏洞	中	2023-12-27 00:00:00
+Hotel Management System check_in_date参数跨站脚本漏洞	中	2023-12-27 00:00:00
+IBM Aspera Orchestrator跨站请求伪造漏洞	高	2024-08-06 00:00:00
+IBM Aspera Shares授权问题漏洞	中	2024-08-15 00:00:00
+IBM Aspera信息泄露漏洞	中	2024-09-19 00:00:00
+IBM Aspera安全绕过漏洞	中	2024-09-19 00:00:00
+IBM Aspera安全绕过漏洞（CNVD-2024-38533）	中	2024-09-19 00:00:00
+IBM Business Automation Workflow日志信息泄露漏洞	中	2024-08-12 00:00:00
+IBM CICS TX Advanced信息泄露漏洞	中	2024-03-13 00:00:00
+IBM Datacap Navigator信息泄露漏洞（CNVD-2024-33363）	中	2024-07-22 00:00:00
+IBM Datacap Navigator信息泄露漏洞（CNVD-2024-33366）	中	2024-07-22 00:00:00
+IBM Datacap Navigator信息泄露漏洞（CNVD-2024-33368）	中	2024-07-22 00:00:00
+IBM Datacap Navigator加密问题漏洞	中	2024-07-22 00:00:00
+IBM Datacap Navigator服务器端请求伪造漏洞	中	2024-07-22 00:00:00
+IBM Datacap Navigator跨站脚本漏洞	中	2024-07-22 00:00:00
+IBM Datacap Navigator路径遍历漏洞	中	2024-07-22 00:00:00
+IBM Engineering Requirements Management DOORS跨站脚本漏洞	中	2024-05-13 00:00:00
+IBM Engineering Requirements Management DOORS跨站请求伪造漏洞	高	2024-05-13 00:00:00
+IBM FileNet Content Manager权限许可和访问控制问题漏洞	中	2024-05-13 00:00:00
+IBM FlashSystem 5300身份验证错误漏洞	中	2024-08-13 00:00:00
+IBM Host Access Transformation Services凭证保护不足漏洞	中	2024-03-26 00:00:00
+IBM Infosphere Information Server跨站脚本漏洞（CNVD-2023-08069）	中	2023-02-10 00:00:00
+IBM InfoSphere Information Server跨站脚本漏洞（CNVD-2023-11689）	中	2023-02-24 00:00:00
+IBM InfoSphere Information Server跨站脚本漏洞（CNVD-2024-12706）	中	2024-03-13 00:00:00
+IBM InfoSphere Information Server跨站脚本漏洞（CNVD-2024-15365）	中	2024-03-22 00:00:00
+IBM InfoSphere Information Server跨站脚本漏洞（CNVD-2024-30630）	中	2024-07-05 00:00:00
+IBM InfoSphere Information Server跨站脚本漏洞（CNVD-2024-33593）	中	2024-07-17 00:00:00
+IBM InfoSphere Information Server跨站请求伪造漏洞（CNVD-2024-30213）	中	2024-07-03 00:00:00
+IBM Integration Bus for z/OS跨站请求伪造漏洞	高	2024-03-26 00:00:00
+IBM Maximo Application Suite加密问题漏洞	中	2024-09-20 00:00:00
+IBM Maximo Application Suite和IBM Maximo Application Suite信息泄露漏洞	低	2024-04-22 00:00:00
+IBM Maximo Application Suite日志信息泄露漏洞	中	2024-03-26 00:00:00
+IBM Maximo Asset Management XML外部实体注入漏洞	高	2024-03-26 00:00:00
+IBM PowerSC会话固定漏洞	中	2024-02-26 00:00:00
+IBM PowerSC会话固定漏洞（CNVD-2024-09948）	中	2024-02-26 00:00:00
+IBM PowerSC信息泄露漏洞	高	2024-02-26 00:00:00
+IBM PowerSC信息泄露漏洞（CNVD-2024-09949）	低	2024-02-26 00:00:00
+IBM PowerSC加密问题漏洞（CNVD-2024-09945）	中	2024-02-26 00:00:00
+IBM PowerSC强制浏览漏洞	中	2024-02-26 00:00:00
+IBM PowerSC解释冲突漏洞	中	2024-02-26 00:00:00
+IBM PowerSC认证错误漏洞	中	2024-02-26 00:00:00
+IBM Rational ClearQuest跨站脚本漏洞（CNVD-2024-35116）	中	2024-08-13 00:00:00
+IBM Security Access Manager Docker信息泄露漏洞	中	2024-08-13 00:00:00
+IBM Security Access Manager信息泄露漏洞（CNVD-2024-35120）	中	2024-08-13 00:00:00
+IBM Security Access Manager数据伪造问题漏洞	中	2024-02-05 00:00:00
+IBM Security Guardium Key Lifecycle Manager未授权访问漏洞	中	2023-03-27 00:00:00
+IBM Security Guardium SQL注入漏洞（CNVD-2023-20081）	中	2023-03-27 00:00:00
+IBM Security Guardium代码问题漏洞（CNVD-2024-24727）	低	2024-05-29 00:00:00
+IBM Security Guardium存在未明漏洞（CNVD-2024-24936）	中	2024-05-29 00:00:00
+IBM Security Guardium授权问题漏洞（CNVD-2023-51459）	低	2023-06-28 00:00:00
+IBM Security Guardium授权问题漏洞（CNVD-2023-68784）	中	2023-09-12 00:00:00
+IBM Security Guardium操作系统命令注入漏洞（CNVD-2024-11735）	高	2024-03-07 00:00:00
+IBM Security verify Access Appliance存在未明漏洞	高	2024-04-22 00:00:00
+IBM Security Verify Directory信息泄露漏洞	中	2024-04-08 00:00:00
+IBM Security Verify Governance硬编码漏洞	中	2023-12-03 00:00:00
+IBM Security Verify Privilege信息泄露漏洞	高	2024-04-22 00:00:00
+IBM Spectrum Virtualize信息泄露漏洞	中	2023-01-31 00:00:00
+IBM System Management for i代码问题漏洞	高	2024-08-13 00:00:00
+IBM Watson CloudPak for Data Data Stores信息泄露漏洞	低	2024-03-13 00:00:00
+IBM webMethods Integration文件上传漏洞	高	2024-09-20 00:00:00
+IBM webMethods Integration权限提升漏洞	高	2024-09-20 00:00:00
+IBM webMethods Integration路径遍历漏洞	中	2024-09-20 00:00:00
+IBM WebSphere Automation命令执行漏洞	中	2024-06-12 00:00:00
+IBOS OA SQL注入漏洞	中	2023-07-07 00:00:00
+IceCMS访问控制错误漏洞	高	2023-06-02 00:00:00
+IceCMS跨站脚本漏洞	中	2023-06-02 00:00:00
+IceCMS跨站脚本漏洞（CNVD-2023-98191）	中	2023-12-19 00:00:00
+IceCMS跨站请求伪造漏洞	高	2023-11-14 00:00:00
+iCMS跨站请求伪造漏洞（CNVD-2023-70069）	高	2023-09-14 00:00:00
+Ingredients Stock Management System SQL注入漏洞	高	2023-02-22 00:00:00
+Ingredients Stock Management System SQL注入漏洞（CNVD-2023-11183）	高	2023-02-22 00:00:00
+Ingredients Stock Management System SQL注入漏洞（CNVD-2023-11184）	高	2023-02-22 00:00:00
+Ingredients Stock Management System SQL注入漏洞（CNVD-2023-11185）	高	2023-02-22 00:00:00
+Ingredients Stock Management System SQL注入漏洞（CNVD-2023-11186）	高	2023-02-22 00:00:00
+Ingredients Stock Management System SQL注入漏洞（CNVD-2023-11187）	高	2023-02-22 00:00:00
+Ingredients Stock Management System SQL注入漏洞（CNVD-2023-11188）	高	2023-02-22 00:00:00
+Inventory Management System跨站脚本漏洞	中	2024-01-26 00:00:00
+J2EEFAST authRoleList函数SQL注入漏洞	中	2024-07-18 00:00:00
+J2EEFAST authUserList函数SQL注入漏洞	中	2024-07-18 00:00:00
+J2EEFAST BpmTaskFromMapper.xml文件SQL注入漏洞	高	2024-06-18 00:00:00
+J2EEFAST commentList函数SQL注入漏洞	中	2024-07-18 00:00:00
+J2EEFAST export函数SQL注入漏洞	中	2024-07-18 00:00:00
+J2EEFAST findApplyedTasksPage函数SQL注入漏洞	中	2024-07-18 00:00:00
+J2EEFAST findpage函数SQL注入漏洞	中	2024-07-18 00:00:00
+J2EEFAST getDeptList函数SQL注入漏洞	中	2024-07-18 00:00:00
+J2EEFAST list函数SQL注入漏洞	中	2024-07-18 00:00:00
+J2EEFAST myProcessList函数SQL注入漏洞	中	2024-07-18 00:00:00
+J2EEFAST SysUreportFileMapper.xml文件SQL注入漏洞	高	2024-07-18 00:00:00
+Jellyfin存在SSRF漏洞（CNVD-2023-52831）	高	2023-06-02 00:00:00
+Jellyfin路径遍历漏洞	高	2023-04-28 00:00:00
+JFinalCMS /admin/nav/update组件跨站请求伪造漏洞	高	2023-12-13 00:00:00
+JFinalCMS SQL注入漏洞（CNVD-2024-15735）	中	2024-04-03 00:00:00
+JFinalCMS跨站脚本漏洞	中	2023-10-24 00:00:00
+JFinalCMS跨站脚本漏洞（CNVD-2023-97732）	中	2023-12-15 00:00:00
+JFinalCMS跨站脚本漏洞（CNVD-2023-9815407）	中	2023-12-15 00:00:00
+JFinalCMS跨站脚本漏洞（CNVD-2024-0021733）	中	2024-01-04 00:00:00
+Jorani Leave Management System跨站脚本漏洞	中	2023-10-20 00:00:00
+Js2Py代码执行漏洞	高	2024-06-28 00:00:00
+Judging Management System SQL注入漏洞（CNVD-2023-48485）	高	2023-06-16 00:00:00
+Judging Management System SQL注入漏洞（CNVD-2023-64280）	高	2023-08-21 00:00:00
+Kashipara Bus Ticket Reservation System跨站脚本漏洞	中	2024-09-14 00:00:00
+Kashipara Bus Ticket Reservation System跨站脚本漏洞（CNVD-2024-38206）	中	2024-09-14 00:00:00
+Kashipara Bus Ticket Reservation System跨站脚本漏洞（CNVD-2024-38207）	高	2024-09-14 00:00:00
+Kashipara Bus Ticket Reservation System跨站请求伪造漏洞	高	2024-09-14 00:00:00
+Kashipara Food Management System SQL注入漏洞	中	2024-03-15 00:00:00
+Kashipara Food Management System SQL注入漏洞（CNVD-2024-13465）	中	2024-03-15 00:00:00
+Kashipara Food Management System SQL注入漏洞（CNVD-2024-13466）	中	2024-03-15 00:00:00
+Kashipara Food Management System SQL注入漏洞（CNVD-2024-13467）	中	2024-03-15 00:00:00
+Kashipara Food Management System SQL注入漏洞（CNVD-2024-13468）	中	2024-03-15 00:00:00
+Kashipara Food Management System SQL注入漏洞（CNVD-2024-13469）	中	2024-03-15 00:00:00
+Kashipara Food Management System SQL注入漏洞（CNVD-2024-13470）	中	2024-03-15 00:00:00
+Kashipara Food Management System SQL注入漏洞（CNVD-2024-13471）	中	2024-03-15 00:00:00
+Kashipara Food Management System跨站脚本漏洞	中	2024-03-15 00:00:00
+Kashipara Hotel Management System文件上传漏洞	高	2024-09-04 00:00:00
+Kashipara Hotel Management System访问控制错误漏洞	高	2024-09-04 00:00:00
+Kashipara Hotel Management System跨站请求伪造漏洞	高	2024-09-04 00:00:00
+Kashipara Music Management System SQL注入漏洞	高	2024-09-05 00:00:00
+Kashipara Music Management System SQL注入漏洞（CNVD-2024-37441）	高	2024-09-05 00:00:00
+Kashipara Music Management System SQL注入漏洞（CNVD-2024-37442）	高	2024-09-05 00:00:00
+Kashipara Music Management System SQL注入漏洞（CNVD-2024-37443）	中	2024-09-05 00:00:00
+Kashipara Music Management System文件上传漏洞	高	2024-09-05 00:00:00
+Kashipara Music Management System文件上传漏洞（CNVD-2024-37437）	高	2024-09-05 00:00:00
+Kashipara Music Management System文件上传漏洞（CNVD-2024-37438）	高	2024-09-05 00:00:00
+Kashipara Music Management System文件上传漏洞（CNVD-2024-37439）	高	2024-09-05 00:00:00
+Kashipara Music Management System跨站脚本漏洞	中	2024-09-05 00:00:00
+Kashipara Music Management System跨站脚本漏洞（CNVD-2024-37430）	中	2024-09-05 00:00:00
+Kashipara Music Management System跨站脚本漏洞（CNVD-2024-37431）	中	2024-09-05 00:00:00
+Kashipara Music Management System跨站脚本漏洞（CNVD-2024-37432）	高	2024-09-05 00:00:00
+Kashipara Music Management System跨站请求伪造漏洞	中	2024-09-05 00:00:00
+Kashipara Music Management System跨站请求伪造漏洞（CNVD-2024-37428）	高	2024-09-05 00:00:00
+Kashipara Music Management System跨站请求伪造漏洞（CNVD-2024-37429）	高	2024-09-05 00:00:00
+Kiwi TCMS操作系统命令注入漏洞	高	2023-04-28 00:00:00
+Kliqqi CMS跨站请求伪造漏洞	高	2024-09-06 00:00:00
+Kliqqi CMS跨站请求伪造漏洞（CNVD-2024-37618）	高	2024-09-06 00:00:00
+Kliqqi CMS跨站请求伪造漏洞（CNVD-2024-37619）	高	2024-09-06 00:00:00
+Kliqqi CMS跨站请求伪造漏洞（CNVD-2024-37620）	高	2024-09-06 00:00:00
+Kliqqi CMS跨站请求伪造漏洞（CNVD-2024-37621）	高	2024-09-06 00:00:00
+Kliqqi CMS跨站请求伪造漏洞（CNVD-2024-37622）	高	2024-09-06 00:00:00
+Kliqqi CMS跨站请求伪造漏洞（CNVD-2024-37623）	高	2024-09-06 00:00:00
+Kliqqi CMS跨站请求伪造漏洞（CNVD-2024-37624）	高	2024-09-06 00:00:00
+Kliqqi CMS跨站请求伪造漏洞（CNVD-2024-37625）	高	2024-09-06 00:00:00
+Kliqqi CMS跨站请求伪造漏洞（CNVD-2024-37626）	高	2024-09-06 00:00:00
+Lead Management System SQL注入漏洞（CNVD-2023-05739）	高	2023-02-01 00:00:00
+Lead Management System SQL注入漏洞（CNVD-2023-05740）	高	2023-02-01 00:00:00
+Lead Management System SQL注入漏洞（CNVD-2023-05741）	高	2023-02-01 00:00:00
+Learning Management System SQL注入漏洞（CNVD-2024-35193）	高	2024-08-14 00:00:00
+LeptonCMS任意文件上传漏洞	高	2024-01-30 00:00:00
+LeptonCMS跨站脚本漏洞（CNVD-2023-64279）	中	2023-08-22 00:00:00
+Library Management System SQL注入漏洞（CNVD-2024-01189）	中	2024-01-09 00:00:00
+LiteLLM SQL注入漏洞	中	2024-06-28 00:00:00
+Lost and Found Information System index.php文件SQL注入漏洞	中	2023-05-25 00:00:00
+magicflue文件上传漏洞	高	2024-03-29 00:00:00
+Mattermost Mobile不受控制的资源消耗漏洞	中	2024-06-07 00:00:00
+Mattermost Server拒绝服务漏洞（CNVD-2024-26110）	低	2024-06-07 00:00:00
+Mattermost Server访问控制错误漏洞（CNVD-2024-20290）	中	2024-04-12 00:00:00
+Mattermost存在未明漏洞（CNVD-2023-55048）	中	2023-07-10 00:00:00
+Mattermost存在未明漏洞（CNVD-2024-35160）	中	2024-08-08 00:00:00
+Mattermost授权不当漏洞	高	2024-07-11 00:00:00
+Mattermost授权问题漏洞（CNVD-2023-55046）	中	2023-07-10 00:00:00
+Mattermost访问控制错误漏洞	高	2023-04-27 00:00:00
+Mattermost资源管理错误漏洞（CNVD-2023-55044）	中	2023-07-10 00:00:00
+Mattermost资源管理错误漏洞（CNVD-2023-55045）	中	2023-07-10 00:00:00
+Mattermost资源管理错误漏洞（CNVD-2023-55049）	中	2023-07-10 00:00:00
+Mattermost输入验证错误漏洞（CNVD-2023-55047）	中	2023-07-10 00:00:00
+Mattermost非法授权漏洞	低	2024-03-14 00:00:00
+MediaWiki存在未明漏洞（CNVD-2024-31366）	中	2024-07-10 00:00:00
+MediaWiki跨站脚本漏洞（CNVD-2023-09714）	低	2023-02-16 00:00:00
+Medicine Tracker System跨站脚本漏洞	中	2023-10-20 00:00:00
+memos跨站请求伪造漏洞（CNVD-2023-04536）	高	2023-01-19 00:00:00
+memos跨站请求伪造漏洞（CNVD-2023-04537）	高	2023-01-19 00:00:00
+MESbook信息泄露漏洞	中	2024-07-17 00:00:00
+MESbook指定功能提供错误漏洞	高	2024-07-17 00:00:00
+MESbook服务端请求伪造漏洞	高	2024-07-17 00:00:00
+MESbook资源管理错误漏洞	高	2024-07-17 00:00:00
+MeterSphere拒绝服务漏洞	中	2023-06-01 00:00:00
+Microsoft SharePoint Server安全功能绕过漏洞（CNVD-2023-04532）	中	2023-01-19 00:00:00
+Microweber信息泄露漏洞（CNVD-2023-32763）	中	2023-04-28 00:00:00
+Microweber文件上传漏洞（CNVD-2023-9820348）	高	2023-12-19 00:00:00
+Microweber跨站脚本漏洞（CNVD-2023-07919）	中	2023-02-10 00:00:00
+Microweber跨站脚本漏洞（CNVD-2023-79685）	中	2023-10-24 00:00:00
+MindsDB路径遍历漏洞（CNVD-2023-32764）	高	2023-04-28 00:00:00
+MiniCMS跨站脚本漏洞（CNVD-2023-86328）	中	2023-11-14 00:00:00
+MiniCMS跨站脚本漏洞（CNVD-2024-24950）	中	2024-06-12 00:00:00
+Mlflow路径遍历漏洞	高	2024-08-16 00:00:00
+Mlflow路径遍历漏洞（CNVD-2024-35608）	低	2024-08-16 00:00:00
+modoboa信息泄露漏洞	高	2023-04-28 00:00:00
+modoboa跨站请求伪造漏洞	中	2023-01-31 00:00:00
+modoboa跨站请求伪造漏洞（CNVD-2023-32765）	高	2023-04-28 00:00:00
+MongoDB信息泄露漏洞（CNVD-2023-68220）	中	2023-08-31 00:00:00
+Moodle跨站脚本漏洞（CNVD-2023-43862）	中	2023-06-02 00:00:00
+mooSocial跨站脚本漏洞	中	2023-10-20 00:00:00
+Mozilla Firefox安全绕过漏洞（CNVD-2024-25560）	高	2024-06-03 00:00:00
+Nextcloud Calendar存在未明漏洞（CNVD-2024-31492）	中	2024-07-11 00:00:00
+Nextcloud信息泄露漏洞（CNVD-2023-07969）	低	2023-02-10 00:00:00
+Nextcloud访问控制错误漏洞（CNVD-2024-29657）	中	2024-06-28 00:00:00
+novel-plus SQL注入漏洞	高	2023-08-21 00:00:00
+novel-plus SQL注入漏洞（CNVD-2023-32195）	中	2023-04-27 00:00:00
+Novel-Plus任意文件上传漏洞	高	2024-02-22 00:00:00
+Novel-Plus任意文件上传漏洞（CNVD-2024-09638）	高	2024-02-06 00:00:00
+novel-plus文件上传漏洞	高	2023-07-06 00:00:00
+NUUO NVRmini2命令执行漏洞	高	2023-03-03 00:00:00
+NXLog Manager存在跨站请求伪造漏洞	高	2023-10-02 00:00:00
+Odoo访问控制问题漏洞	中	2023-05-26 00:00:00
+Online Book System index.php文件SQL注入漏洞	高	2024-04-02 00:00:00
+Online Chatting System SQL注入漏洞（CNVD-2024-23320）	中	2024-05-23 00:00:00
+Online Computer and Laptop Store delete_order函数SQL注入漏洞	中	2023-04-21 00:00:00
+Online Computer and Laptop Store save_brand函数SQL注入漏洞	中	2023-04-21 00:00:00
+Online Computer and Laptop Store SQL注入漏洞	中	2023-04-20 00:00:00
+Online Computer and Laptop Store SQL注入漏洞（CNVD-2023-29381）	中	2023-04-20 00:00:00
+Online Computer and Laptop Store SQL注入漏洞（CNVD-2023-29383）	中	2023-04-20 00:00:00
+Online Computer and Laptop Store SQL注入漏洞（CNVD-2023-29384）	中	2023-04-20 00:00:00
+Online Computer and Laptop Store跨站脚本漏洞	中	2023-04-20 00:00:00
+Online Computer and Laptop Store跨站脚本漏洞（CNVD-2023-29382）	中	2023-04-20 00:00:00
+Online Computer and Laptop Store跨站脚本漏洞（CNVD-2023-29393）	中	2023-04-20 00:00:00
+Online Courseware editt.php文件跨站脚本漏洞	中	2024-04-12 00:00:00
+Online DJ Management System跨站脚本漏洞	低	2023-05-11 00:00:00
+Online Exam System Master.php文件SQL注入漏洞	中	2023-06-16 00:00:00
+Online Food Ordering System index.php跨站脚本漏洞	中	2023-02-10 00:00:00
+Online Food Ordering System login.php跨站脚本漏洞	中	2023-02-10 00:00:00
+Online Food Ordering System navbar.php跨站脚本漏洞	中	2023-02-10 00:00:00
+Online Food Ordering System signup.php跨站脚本漏洞	中	2023-02-10 00:00:00
+Online Food Ordering System SQL注入漏洞	中	2023-02-02 00:00:00
+Online Food Ordering System SQL注入漏洞（CNVD-2023-04529）	中	2023-01-19 00:00:00
+Online Food Ordering System SQL注入漏洞（CNVD-2023-04530）	中	2023-01-19 00:00:00
+Online Food Ordering System SQL注入漏洞（CNVD-2023-06524）	高	2023-02-03 00:00:00
+Online Food Ordering System SQL注入漏洞（CNVD-2023-07974）	中	2023-02-10 00:00:00
+Online Food Ordering System任意文件上传漏洞	中	2023-02-03 00:00:00
+Online Job Portal跨站脚本漏洞	中	2024-03-14 00:00:00
+Online Mobile Store Management System跨站脚本漏洞	中	2024-03-13 00:00:00
+Online Payroll System SQL注入漏洞	中	2023-04-20 00:00:00
+Online Payroll System SQL注入漏洞（CNVD-2023-29401）	中	2023-04-20 00:00:00
+Online Payroll System SQL注入漏洞（CNVD-2023-29402）	中	2023-04-20 00:00:00
+Online Payroll System SQL注入漏洞（CNVD-2023-29403）	中	2023-04-20 00:00:00
+Online Payroll System SQL注入漏洞（CNVD-2023-29404）	中	2023-04-20 00:00:00
+Online Payroll System跨站脚本漏洞	中	2023-04-20 00:00:00
+Online Payroll System跨站脚本漏洞（CNVD-2023-29399）	中	2023-04-20 00:00:00
+Online School Fees System SQL注入漏洞	中	2023-07-27 00:00:00
+Online Security Guards Hiring System SQL注入漏洞	高	2023-08-24 00:00:00
+Online Security Guards Hiring System跨站脚本漏洞（CNVD-2023-64633）	中	2023-08-23 00:00:00
+Online Student Enrollment System SQL注入漏洞（CNVD-2024-26366）	中	2024-06-07 00:00:00
+Online Student Enrollment System SQL注入漏洞（CNVD-2024-26367）	中	2024-06-07 00:00:00
+Online Student Enrollment System SQL注入漏洞（CNVD-2024-26368）	中	2024-06-07 00:00:00
+Online Student Enrollment System SQL注入漏洞（CNVD-2024-26371）	中	2024-06-07 00:00:00
+Online Student Enrollment System SQL注入漏洞（CNVD-2024-26372）	中	2024-06-07 00:00:00
+Online Thesis Archiving System sql注入漏洞（CNVD-2023-29788）	中	2023-04-20 00:00:00
+OpenCart PHP注入漏洞	高	2024-06-27 00:00:00
+OpenCart SQL注入漏洞（CNVD-2024-30072）	高	2024-06-27 00:00:00
+OpenCart文件泄露漏洞	高	2024-06-27 00:00:00
+OpenCart跨站脚本漏洞（CNVD-2024-30071）	中	2024-06-27 00:00:00
+OpenCATS跨站脚本漏洞（CNVD-2023-29368）	中	2023-04-21 00:00:00
+OpenCTI授权问题漏洞	高	2024-05-29 00:00:00
+OpenEMR存在未明漏洞（CNVD-2024-31488）	高	2024-07-11 00:00:00
+OpenEMR跨站脚本漏洞	中	2023-06-02 00:00:00
+OpenStack Glance未授权操作漏洞	中	2023-03-06 00:00:00
+OpenStack Heat信息泄露漏洞	中	2023-05-11 00:00:00
+osCommerce SQL注入漏洞	高	2023-12-15 00:00:00
+OURPHP ourphp_tz.php文件跨站脚本漏洞	中	2023-05-06 00:00:00
+OURPHP SQL注入漏洞	高	2023-05-06 00:00:00
+paddlepaddle代码注入漏洞	高	2024-03-14 00:00:00
+Payroll Management System SQL注入漏洞	高	2024-08-14 00:00:00
+PbootCMS SQL注入漏洞（CNVD-2023-11247）	高	2023-02-16 00:00:00
+pgAdmin跨站脚本漏洞	中	2024-06-06 00:00:00
+Pharmacy Management System getOrderReport.php SQL注入漏洞	高	2023-02-23 00:00:00
+Pharmacy Management System getproductreport.php SQL注入漏洞	高	2023-02-23 00:00:00
+Pharmacy Management System getsalereport.php SQL注入漏洞	高	2023-02-23 00:00:00
+Pharmacy Management System invoiceprint.php SQL注入漏洞	高	2023-02-23 00:00:00
+Pharmacy Management System login.php SQL注入漏洞	高	2023-02-23 00:00:00
+Pharmacy Management System任意文件上传漏洞	中	2023-02-23 00:00:00
+PHPEMS反序列化漏洞	中	2023-12-15 00:00:00
+phpIPAM授权问题问题漏洞	中	2023-02-16 00:00:00
+phpIPAM跨站脚本漏洞（CNVD-2023-09715）	中	2023-02-16 00:00:00
+phpIPAM跨站脚本漏洞（CNVD-2023-09716）	中	2023-02-16 00:00:00
+phpMyFAQ代码注入漏洞	中	2023-02-16 00:00:00
+phpMyFAQ存在未明漏洞（CNVD-2023-09635）	高	2023-02-16 00:00:00
+phpMyFAQ授权问题漏洞	中	2023-01-19 00:00:00
+phpMyFAQ跨站脚本漏洞（CNVD-2023-04316）	高	2023-01-19 00:00:00
+phpMyFAQ跨站脚本漏洞（CNVD-2023-04317）	高	2023-01-19 00:00:00
+phpMyFAQ跨站脚本漏洞（CNVD-2023-04318）	高	2023-01-19 00:00:00
+phpMyFAQ跨站脚本漏洞（CNVD-2023-09633）	高	2023-02-16 00:00:00
+PHPOK代码问题漏洞	高	2023-05-26 00:00:00
+PHPOK任意文件上传漏洞（CNVD-2023-43865）	中	2023-06-02 00:00:00
+phpRecDB跨站脚本漏洞	中	2023-08-21 00:00:00
+phpwcms文件上传漏洞（CNVD-2023-09606）	高	2023-02-17 00:00:00
+phpwcms目录遍历漏洞	中	2023-02-17 00:00:00
+Pimcore CSV注入漏洞	高	2023-05-26 00:00:00
+Pimcore Properties参数跨站脚本漏洞	中	2023-05-06 00:00:00
+Pimcore跨站脚本漏洞（CNVD-2023-05411）	中	2023-01-31 00:00:00
+Pimcore跨站脚本漏洞（CNVD-2023-36295）	中	2023-05-11 00:00:00
+Pimcore跨站脚本漏洞（CNVD-2023-41505）	中	2023-05-25 00:00:00
+Pimcore跨站脚本漏洞（CNVD-2023-41506）	中	2023-05-25 00:00:00
+Pimcore跨站脚本漏洞（CNVD-2023-43233）	中	2023-05-26 00:00:00
+pimcore跨站脚本漏洞（CNVD-2023-43240）	中	2023-05-25 00:00:00
+Pimcore路径遍历漏洞（CNVD-2023-43860）	中	2023-06-01 00:00:00
+Pimcore路径遍历漏洞（CNVD-2023-64642）	中	2023-08-24 00:00:00
+Piwigo SQL注入漏洞（CNVD-2023-58825）	高	2023-07-26 00:00:00
+Pluck CMS跨站脚本漏洞	低	2023-11-30 00:00:00
+PrestaShop路径遍历漏洞（CNVD-2023-64630）	高	2023-08-23 00:00:00
+PublicCMS代码问题漏洞	高	2024-09-06 00:00:00
+PublicCMS跨站脚本漏洞（CNVD-2024-02991）	中	2024-01-17 00:00:00
+Rainbond存在文件上传漏洞	高	2023-05-27 00:00:00
+Rainbond存在逻辑缺陷漏洞	中	2023-05-27 00:00:00
+Rainbond存在逻辑缺陷漏洞（CNVD-2023-29035）	低	2023-05-27 00:00:00
+Resort Reservation System跨站脚本漏洞	中	2023-05-11 00:00:00
+RiteCMS跨站脚本漏洞（CNVD-2023-86334）	中	2023-11-14 00:00:00
+RosarioSIS跨站脚本漏洞（CNVD-2023-74437）	低	2023-10-07 00:00:00
+RPCMS存在SQL注入漏洞	高	2023-09-04 00:00:00
+RuvarOA filename参数SQL注入漏洞	高	2024-07-26 00:00:00
+RuvarOA idlist参数SQL注入漏洞	高	2024-07-26 00:00:00
+RuvarOA id参数SQL注入漏洞（CNVD-2024-33625）	高	2024-07-26 00:00:00
+RuvarOA office_missive_id参数SQL注入漏洞	高	2024-07-26 00:00:00
+RuvarOA PageID参数SQL注入漏洞	高	2024-07-26 00:00:00
+RuvarOA SQL注入漏洞（CNVD-2024-33154）	中	2024-07-19 00:00:00
+RuvarOA SQL注入漏洞（CNVD-2024-33155）	中	2024-07-19 00:00:00
+RuvarOA SQL注入漏洞（CNVD-2024-33156）	中	2024-07-19 00:00:00
+RuvarOA SQL注入漏洞（CNVD-2024-33622）	高	2024-07-26 00:00:00
+RuvarOA sys_file_storage_id参数SQL注入漏洞	高	2024-07-26 00:00:00
+RuvarOA sys_file_storage_id参数SQL注入漏洞（CNVD-2024-33626）	高	2024-07-26 00:00:00
+RuvarOA tbTable参数SQL注入漏洞	高	2024-07-26 00:00:00
+RuvarOA template_id参数SQL注入漏洞	高	2024-07-26 00:00:00
+Sales Tracker Management System SQL注入漏洞（CNVD-2023-29365）	中	2023-04-21 00:00:00
+SAP Bank Account Management授权问题漏洞	中	2024-06-06 00:00:00
+SAP BusinessObjects Business Intelligence Platform信息泄露漏洞（CNVD-2023-40166）	高	2023-05-26 00:00:00
+SAP CRM信息泄露漏洞	中	2024-08-19 00:00:00
+SAP Landscape Management信息泄露漏洞（CNVD-2023-28117）	高	2023-04-21 00:00:00
+SAP NetWeaver跨站脚本漏洞（CNVD-2024-35654）	中	2024-08-19 00:00:00
+SAP Solution Manager跨站脚本漏洞（CNVD-2023-40171）	中	2023-05-25 00:00:00
+Scholars Tracking System SQL注入漏洞（CNVD-2024-14043）	中	2024-03-22 00:00:00
+Scholars Tracking System SQL注入漏洞（CNVD-2024-14044）	中	2024-03-22 00:00:00
+Scholars Tracking System SQL注入漏洞（CNVD-2024-14045）	低	2024-03-22 00:00:00
+SeaCMS admin_config_mark.php命令执行漏洞	高	2024-07-23 00:00:00
+SeaCMS admin_weixin.php命令执行漏洞	高	2024-07-23 00:00:00
+SeaCMS代码执行漏洞	高	2024-07-12 00:00:00
+SeaCMS代码执行漏洞（CNVD-2023-61759）	中	2023-08-09 00:00:00
+SeaCMS拒绝服务漏洞（CNVD-2024-37629）	中	2024-09-06 00:00:00
+SeaCMS跨站脚本漏洞（CNVD-2024-38573）	中	2024-09-19 00:00:00
+SeaCMS跨站脚本漏洞（CNVD-2024-39583）	中	2024-09-29 00:00:00
+SeedDMS信息泄露漏洞	中	2023-08-22 00:00:00
+SEMCMS Ant_Pro.php SQL注入漏洞	高	2023-02-24 00:00:00
+SEMCMS Ant_Zekou.php SQL注入漏洞	高	2023-02-24 00:00:00
+SEMCMS SQL注入漏洞（CNVD-2023-41864）	高	2023-05-26 00:00:00
+SEMCMS SQL注入漏洞（CNVD-2023-62957）	高	2023-08-14 00:00:00
+SEMCMS SQL注入漏洞（CNVD-2024-23136）	中	2024-05-17 00:00:00
+SEMCMS代码问题漏洞	高	2023-07-26 00:00:00
+SEMCMS文件上传漏洞	高	2023-08-14 00:00:00
+Sentrifugo agencyids参数SQL注入漏洞	高	2024-07-19 00:00:00
+Sentrifugo bunitname参数SQL注入漏洞	高	2024-07-19 00:00:00
+Sentrifugo business_id参数SQL注入漏洞	高	2024-07-19 00:00:00
+Sentrifugo business_id参数跨站脚本漏洞	高	2024-07-19 00:00:00
+Sentrifugo description参数跨站脚本漏洞	高	2024-07-19 00:00:00
+Sentrifugo expense_category_name参数跨站脚本漏洞	高	2024-07-19 00:00:00
+Service Provider Management System SQL注入漏洞（CNVD-2023-38190）	中	2023-05-18 00:00:00
+Service Provider Management System SQL注入漏洞（CNVD-2023-38192）	中	2023-05-18 00:00:00
+Service Provider Management System授权问题漏洞	中	2023-05-18 00:00:00
+Service Provider Management System跨站脚本漏洞（CNVD-2023-38191）	中	2023-05-18 00:00:00
+SiberianCMS SQL注入漏洞（CNVD-2024-35164）	高	2024-08-08 00:00:00
+Siemens Mendix Forgot Password模块户枚举漏洞	中	2023-10-12 00:00:00
+Siemens QMS Automotive代码问题漏洞	高	2023-09-22 00:00:00
+Siemens QMS Automotive信息泄露洞	中	2023-09-21 00:00:00
+Siemens QMS Automotive信息泄露漏洞（CNVD-2023-71222）	高	2023-09-21 00:00:00
+Siemens QMS Automotive信息泄露漏洞（CNVD-2023-71223）	低	2023-09-21 00:00:00
+Siemens QMS Automotive存在未明漏洞	高	2023-09-21 00:00:00
+Siemens QMS Automotive安全绕过漏洞	中	2023-09-21 00:00:00
+Siemens QMS Automotive数据伪造问题漏洞	高	2023-09-21 00:00:00
+Siemens QMS Automotive访问控制错误漏洞	高	2023-09-21 00:00:00
+Siemens RUGGEDCOM CROSSBOW SQL注入漏洞（CNVD-2023-62042）	高	2023-08-09 00:00:00
+Siemens RUGGEDCOM CROSSBOW SQL注入漏洞（CNVD-2023-62043）	高	2023-08-09 00:00:00
+Siemens RUGGEDCOM CROSSBOW缺少关键功能的认证漏洞	中	2023-08-09 00:00:00
+Siemens SICAM TOOLBOX II使用不必要的特权执行漏洞	高	2023-08-09 00:00:00
+Siemens SICAM TOOLBOX II关键资源的权限分配错误漏洞	中	2023-08-09 00:00:00
+Siemens Simcenter Amesim远程代码执行漏洞	高	2023-10-12 00:00:00
+Siemens SINEC NMS权限分配不正确漏洞	高	2023-10-12 00:00:00
+Siemens SINEC NMS跨站脚本漏洞	中	2023-10-12 00:00:00
+Simmeth System Supplier Manager任意文件下载漏洞	高	2023-03-31 00:00:00
+Simmeth System Supplier Manager会话管理错误漏洞	高	2023-03-31 00:00:00
+Simmeth System Supplier Manager设计错误漏洞	中	2023-03-31 00:00:00
+Simmeth System Supplier Manager跨站脚本漏洞	中	2023-03-31 00:00:00
+Simmeth System Supplier Manager身份验证绕过漏洞	高	2023-03-31 00:00:00
+Simple Car Rental System文件上传漏洞	中	2024-04-12 00:00:00
+Simple E-Learning System classRoom.php SQL注入漏洞	中	2023-02-23 00:00:00
+Simple E-Learning System search.php SQL注入漏洞	高	2023-02-23 00:00:00
+Simple E-Learning System SQL注入漏洞（CNVD-2023-11437）	高	2023-02-23 00:00:00
+Simple E-Learning System信息泄露漏洞	高	2023-02-23 00:00:00
+Simple e-Learning System跨站脚本漏洞	中	2023-02-23 00:00:00
+Simple Inventory Management System SQL注入漏洞	中	2024-08-15 00:00:00
+Simple Online Hotel Reservation System跨站脚本漏洞	中	2024-01-26 00:00:00
+Simple School Managment System SQL注入漏洞	高	2024-03-21 00:00:00
+Simple School Managment System SQL注入漏洞（CNVD-2024-14035）	高	2024-03-21 00:00:00
+Simple School Managment System SQL注入漏洞（CNVD-2024-14036）	高	2024-03-21 00:00:00
+Simple School Managment System SQL注入漏洞（CNVD-2024-14038）	高	2024-03-21 00:00:00
+Simple School Managment System SQL注入漏洞（CNVD-2024-14039）	高	2024-03-21 00:00:00
+Simple School Managment System SQL注入漏洞（CNVD-2024-14040）	高	2024-03-21 00:00:00
+Simple School Managment System安全绕过漏洞	高	2024-03-21 00:00:00
+Simple School Managment System安全绕过漏洞（CNVD-2024-14037）	高	2024-03-21 00:00:00
+Simplesite Payment EX信息泄露漏洞	中	2024-05-09 00:00:00
+snapd信息泄露漏洞	中	2023-10-07 00:00:00
+SolarWinds Access Rights Manager反序列化漏洞	高	2024-08-09 00:00:00
+SolarWinds Access Rights Manager授权问题漏洞	中	2024-08-09 00:00:00
+SolarWinds Access Rights Manager授权问题漏洞（CNVD-2024-34980）	高	2024-08-09 00:00:00
+SolarWinds Access Rights Manager授权问题漏洞（CNVD-2024-34982）	高	2024-08-09 00:00:00
+SolarWinds Access Rights Manager授权问题漏洞（CNVD-2024-34985）	高	2024-08-09 00:00:00
+SolarWinds Access Rights Manager路径遍历漏洞	高	2024-08-09 00:00:00
+SolarWinds Access Rights Manager路径遍历漏洞（CNVD-2024-34981）	高	2024-08-09 00:00:00
+SolarWinds Access Rights Manager路径遍历漏洞（CNVD-2024-34984）	高	2024-08-09 00:00:00
+SolarWinds Access Rights Manager路径遍历漏洞（CNVD-2024-34986）	高	2024-08-09 00:00:00
+SpringBlade安全模式绕过漏洞	高	2023-07-27 00:00:00
+Stable Diffusion WebUI远程命令执⾏漏洞	高	2023-10-27 00:00:00
+Student Management System units_view.php文件跨站脚本漏洞	中	2024-04-26 00:00:00
+Students Online Internship Timesheet System sql注入漏洞	中	2023-06-02 00:00:00
+SuiteCRM HTML注入漏洞	中	2024-06-20 00:00:00
+SuiteCRM代码注入漏洞	中	2024-06-20 00:00:00
+SuiteCRM代码问题漏洞（CNVD-2024-28186）	高	2024-06-20 00:00:00
+SuiteCRM代码问题漏洞（CNVD-2024-28187）	中	2024-06-20 00:00:00
+SuiteCRM服务器端请求伪造漏洞	中	2024-06-20 00:00:00
+SuiteCRM跨站请求伪造漏洞（CNVD-2023-58824）	高	2023-07-26 00:00:00
+SuiteCRM路径遍历漏洞（CNVD-2024-28191）	高	2024-06-20 00:00:00
+SuiteCRM远程执行代码漏洞	高	2024-06-20 00:00:00
+symphony存在命令执行漏洞	高	2024-02-18 00:00:00
+Tailor Management System SQL注入漏洞（CNVD-2023-29361）	高	2023-04-21 00:00:00
+Tailor Mangement System SQL注入漏洞	高	2023-04-28 00:00:00
+Terminalfour信息泄露漏洞	中	2023-04-20 00:00:00
+Textpattern CMS任意文件上传漏洞（CNVD-2023-36289）	高	2023-05-11 00:00:00
+ThinkCMF跨站脚本漏洞	中	2023-08-18 00:00:00
+Totara LMS跨站脚本漏洞	中	2024-05-30 00:00:00
+Traggo server目录遍历漏洞	中	2023-06-30 00:00:00
+Trend Micro Apex Central SQL注入漏洞	高	2023-07-20 00:00:00
+Trend Micro Apex Central任意文件上传漏洞	中	2024-01-22 00:00:00
+Trend Micro Apex Central本地文件包含漏洞	高	2024-01-22 00:00:00
+Trend Micro Apex Central跨站脚本漏洞（CNVD-2023-57661）	中	2023-07-20 00:00:00
+Trend Micro Apex Central跨站脚本漏洞（CNVD-2023-57662）	中	2023-07-20 00:00:00
+Trend Micro Apex Central跨站脚本漏洞（CNVD-2023-57663）	中	2023-07-20 00:00:00
+Trend Micro Apex Central跨站脚本漏洞（CNVD-2023-57664）	中	2023-07-20 00:00:00
+Trend Micro Apex Central跨站脚本漏洞（CNVD-2023-57665）	中	2023-07-20 00:00:00
+Trend Micro Apex Central跨站脚本漏洞（CNVD-2023-57666）	中	2023-07-20 00:00:00
+Trend Micro Apex Central跨站脚本漏洞（CNVD-2023-57668）	中	2023-07-20 00:00:00
+Trend Micro Apex Central跨站脚本漏洞（CNVD-2024-04936）	中	2024-01-22 00:00:00
+Trend Micro Apex Central跨站脚本漏洞（CNVD-2024-04937）	中	2024-01-22 00:00:00
+Trend Micro Apex Central跨站脚本漏洞（CNVD-2024-04938）	中	2024-01-22 00:00:00
+typecho跨站脚本漏洞（CNVD-2023-9782581）	低	2023-12-15 00:00:00
+Verint Engagement Management跨站脚本漏洞	中	2023-08-24 00:00:00
+Warehouse Inventory System跨站请求伪造漏洞（CNVD-2024-38209）	高	2024-09-14 00:00:00
+Warehouse Inventory System跨站请求伪造漏洞（CNVD-2024-38210）	高	2024-09-14 00:00:00
+Warehouse Inventory System跨站请求伪造漏洞（CNVD-2024-38211）	高	2024-09-14 00:00:00
+Warehouse Inventory System跨站请求伪造漏洞（CNVD-2024-38212）	高	2024-09-14 00:00:00
+Warehouse Inventory System跨站请求伪造漏洞（CNVD-2024-38213）	高	2024-09-14 00:00:00
+Warehouse Inventory System跨站请求伪造漏洞（CNVD-2024-38214）	高	2024-09-14 00:00:00
+WBCE CMS跨站脚本漏洞（CNVD-2023-85457）	中	2023-11-10 00:00:00
+Weave GitOps日志信息泄露漏洞	中	2023-10-07 00:00:00
+Web-Based Student Clearance System SQL注入漏洞	中	2023-12-15 00:00:00
+WebChess SQL注入漏洞（CNVD-2023-64111）	高	2023-08-21 00:00:00
+WonderCMS HOW TO页面跨站脚本漏洞	中	2024-07-18 00:00:00
+WonderCMS MENU参数跨站脚本漏洞	中	2024-07-18 00:00:00
+WonderCMS PAGE DESCRIPTION参数跨站脚本漏洞	中	2024-07-31 00:00:00
+WordPress Advanced iFrame plugin跨站脚本漏洞	中	2023-02-06 00:00:00
+WordPress Advanced Product Labels for WooCommerce plugin跨站脚本漏洞	中	2023-01-28 00:00:00
+WordPress ARI Fancy Lightbox plugin跨站脚本漏洞	中	2023-01-28 00:00:00
+WordPress Better WordPress Google XML Sitemaps plugin跨站脚本漏洞	中	2023-01-28 00:00:00
+WordPress Booking Manager plugin服务端请求伪造漏洞	高	2023-08-24 00:00:00
+WordPress Connections Business Directory plugin跨站脚本漏洞	低	2023-01-29 00:00:00
+WordPress CorreosExpress plugin信息泄露漏洞	中	2023-01-28 00:00:00
+WordPress Customize Login Image Plugin跨站脚本漏洞	低	2023-01-28 00:00:00
+WordPress demon image annotation跨站请求伪造漏洞	高	2023-10-08 00:00:00
+WordPress Discussion Board plugin跨站脚本漏洞	中	2024-06-13 00:00:00
+WordPress Drag and Drop Multiple File Upload安全绕过漏洞	中	2023-05-12 00:00:00
+WordPress Easy Google Maps plugin跨站请求伪造漏洞	高	2023-06-15 00:00:00
+WordPress ElementsReady Addons for Elementor跨站脚本攻击漏洞	中	2024-06-13 00:00:00
+WordPress Essential Real Estate跨站脚本漏洞	中	2024-06-07 00:00:00
+WordPress EventCalendar plugin跨站脚本漏洞	中	2023-02-07 00:00:00
+WordPress External Videos plugin跨站脚本漏洞	中	2023-08-24 00:00:00
+WordPress Ezoic存在跨站脚本漏洞	中	2023-10-08 00:00:00
+WordPress File Upload plugin跨站脚本漏洞	低	2023-01-28 00:00:00
+WordPress Google Maps plugin跨站请求伪造漏洞	中	2023-02-06 00:00:00
+WordPress Happy Addons for Elementor plugin跨站脚本漏洞（CNVD-2024-26468）	中	2024-06-07 00:00:00
+WordPress ImageMagick Sharpen Resized Images plugin跨站脚本漏洞	中	2024-06-07 00:00:00
+WordPress LifterLMS plugin跨站请求伪造漏洞	中	2024-04-26 00:00:00
+WordPress Link Library plugin任意链接删除漏洞	中	2023-01-28 00:00:00
+WordPress Link Library plugin跨站脚本漏洞	中	2023-02-07 00:00:00
+WordPress Log HTTP Requests跨站脚本漏洞	中	2023-10-08 00:00:00
+WordPress Multisite Content Copier/Updater  plugin跨站脚本漏洞	中	2023-01-28 00:00:00
+WordPress Nafeza Prayer Time插件跨站脚本漏洞	低	2024-06-13 00:00:00
+WordPress Newsletter插件跨站脚本漏洞	中	2024-06-07 00:00:00
+WordPress Permalink Manager Lite跨站请求伪造漏洞	高	2023-10-08 00:00:00
+WordPress plugin Custom Content Shortcode访问控制错误漏洞	中	2023-02-06 00:00:00
+WordPress plugin LetsRecover SQL注入漏洞	高	2023-01-19 00:00:00
+WordPress plugin Master Elements SQL注入漏洞	高	2023-02-06 00:00:00
+WordPress plugin ThirstyAffiliates Affiliate Link Manager 授权问题漏洞（CNVD-2023-06534）	中	2023-02-06 00:00:00
+WordPress ProfileGrid CSV注入漏洞	中	2023-10-08 00:00:00
+WordPress Quiz And Survey Master plugin跨站脚本漏洞	低	2023-02-07 00:00:00
+WordPress Quiz And Survey Master SQL注入漏洞	高	2023-10-08 00:00:00
+WordPress SEUR Oficial plugin跨站脚本漏洞	低	2023-02-07 00:00:00
+WordPress Simple Download Counter plugin跨站脚本漏洞	中	2023-09-14 00:00:00
+WordPress Spectra plugin跨站脚本漏洞（CNVD-2024-27891）	中	2024-06-11 00:00:00
+WordPress Stop Spam Comments信息泄露漏洞	中	2023-10-07 00:00:00
+WordPress Sunny Search plugin跨站脚本漏洞	中	2023-08-31 00:00:00
+WordPress SVG Support跨站脚本漏洞	中	2023-05-04 00:00:00
+WordPress Sygnoos Popup Builder跨站请求伪造漏洞	中	2023-08-18 00:00:00
+WordPress WP Fusion Lite插件远程代码执行漏洞	高	2024-04-12 00:00:00
+WordPress WP Google Tag Manager plugin跨站请求伪造漏洞	中	2023-06-15 00:00:00
+WordPress WP OAuth2 Server访问控制错误漏洞	高	2023-08-18 00:00:00
+WordPress WP Shopping Pages plugin跨站脚本漏洞	高	2023-08-24 00:00:00
+WordPress WP-EMail plugin跨站脚本漏洞	中	2023-08-24 00:00:00
+WordPress WP-PostRatings plugin访问控制错误漏洞	中	2024-06-07 00:00:00
+WordPress WPIDE路径遍历漏洞	中	2023-10-07 00:00:00
+WordPress wpWax Team跨站脚本漏洞	中	2023-08-18 00:00:00
+WordPress插件Albo Pretorio On line跨站脚本漏洞	中	2024-02-06 00:00:00
+WordPress插件BA Plus跨站脚本漏洞	高	2024-02-06 00:00:00
+WordPress插件easy-popup-show跨站请求伪造漏洞	中	2024-03-27 00:00:00
+WordPress插件Simple History安全绕过漏洞	中	2023-06-02 00:00:00
+WordPress插件WPML Multilingual CMS premium访问控制错误漏洞	中	2023-10-08 00:00:00
+XunRuiCMS跨站脚本漏洞（CNVD-2024-12713）	中	2024-03-14 00:00:00
+Yoga Class Registration System SQL注入漏洞	高	2023-04-28 00:00:00
+Yoga Class Registration System文件上传漏洞	高	2023-06-30 00:00:00
+YouDianCMS存在文件上传漏洞（CNVD-2024-34730）	高	2024-08-26 00:00:00
+YzmCMS跨站脚本漏洞（CNVD-2024-02989）	中	2024-01-17 00:00:00
+Yzmcms跨站请求伪造漏洞（CNVD-2023-64113）	高	2023-08-18 00:00:00
+YznCMS跨站请求伪造漏洞	高	2023-07-27 00:00:00
+Z-BlogPHP跨站脚本漏洞（CNVD-2024-32984）	中	2024-07-17 00:00:00
+Zammad访问控制错误漏洞（CNVD-2023-36294）	中	2023-05-11 00:00:00
+ZKTeco BioTime密码重置漏洞	高	2023-08-14 00:00:00
+ZOHO ManageEngine OpManager存在XML实体注入漏洞	低	2023-02-19 00:00:00
+ZrLog目录遍历漏洞	高	2023-08-21 00:00:00
+ZZCMS文件上传漏洞（CNVD-2024-06241）	高	2024-02-01 00:00:00
+万户ezOFFICE协同管理平台存在文件上传漏洞（CNVD-2024-14208）	高	2024-03-20 00:00:00
+上海伯俊软件科技有限公司零售终端运维管理平台存在信息泄露漏洞	中	2024-01-02 00:00:00
+上海卓卓网络科技有限公司DedeCMS存在SQL注入漏洞（CNVD-2024-13237）	中	2024-03-21 00:00:00
+上海卓卓网络科技有限公司DedeCMS存在文件包含漏洞	高	2023-06-19 00:00:00
+上海商汤智能科技有限公司SenseLink智能物联平台存在命令执行漏洞	高	2023-08-27 00:00:00
+上海布雷德科技有限公司springblade框架存在SQL注入漏洞	高	2024-07-15 00:00:00
+上海泛微网络科技股份有限公司e-cology 9存在SQL注入漏洞	高	2024-07-16 00:00:00
+上海百胜软件股份有限公司E3全渠道配置中心存在弱口令漏洞	中	2023-05-26 00:00:00
+上海纵之格科技有限公司ShopXO存在未授权访问漏洞	中	2024-01-30 00:00:00
+上海纽盾科技股份有限公司Reporter组件存在命令执行漏洞	高	2023-09-07 00:00:00
+上海金电网安科技有限公司金电网安可信运维管理系统存在逻辑缺陷漏洞（CNVD-2023-37862）	中	2023-02-28 00:00:00
+东莞市通天星软件科技有限公司主动安全监控云平台存在SQL注入漏洞	高	2024-05-21 00:00:00
+东莞市通天星软件科技有限公司主动安全监控云平台存在SQL注入漏洞（CNVD-2024-07950）	高	2024-02-19 00:00:00
+东莞市通天星软件科技有限公司主动安全监控云平台存在未授权访问漏洞	中	2024-02-19 00:00:00
+亿赛通电子文档安全管理系统（CDG）存在文件上传漏洞	高	2023-10-30 00:00:00
+亿赛通电子文档安全管理系统多处接口 存在任意文件读取漏洞	中	2024-06-12 00:00:00
+亿赛通电子文档安全管理系统存在任意文件读取漏洞（CNVD-2023-09184）	中	2023-02-22 00:00:00
+亿赛通电子文档安全管理系统存在命令执行漏洞（CNVD-2024-03028）	高	2024-01-24 00:00:00
+亿赛通电子文档安全管理系统存在目录遍历漏洞	低	2023-05-06 00:00:00
+北京世纪超星信息技术发展有限责任公司超星汇雅电子图书馆存在SQL注入漏洞	高	2023-09-04 00:00:00
+北京亚控科技发展有限公司KingFusion开发系统存在弱口令漏洞	中	2023-02-03 00:00:00
+北京亚控科技发展有限公司KingH5Stream存在信息泄露漏洞（CNVD-2024-24149）	中	2024-06-10 00:00:00
+北京亚控科技发展有限公司KingH5Stream存在逻辑缺陷漏洞	中	2024-06-26 00:00:00
+北京亚控科技发展有限公司KingH5Stream系统存在逻辑缺陷漏洞	中	2024-09-10 00:00:00
+北京亚控科技发展有限公司KingPortal开发系统存在未授权访问漏洞（CNVD-2024-16026）	低	2024-06-04 00:00:00
+北京亚控科技发展有限公司KingSuperSCADA存在信息泄露漏洞	中	2024-02-25 00:00:00
+北京亚控科技发展有限公司开发中心存在未授权访问漏洞（CNVD-2023-45548）	低	2024-05-15 00:00:00
+北京亿赛通科技发展有限责任公司数据泄露防护(DLP)系统存在SQL注入漏洞（CNVD-2024-05880）	高	2024-02-05 00:00:00
+北京亿赛通科技发展有限责任公司数据泄露防护(DLP)系统存在SQL注入漏洞（CNVD-2024-13697）	高	2024-03-26 00:00:00
+北京亿赛通科技发展有限责任公司数据泄露防护(DLP)系统存在SQL注入漏洞（CNVD-2024-13698）	高	2024-03-26 00:00:00
+北京亿赛通科技发展有限责任公司数据泄露防护(DLP)系统存在SQL注入漏洞（CNVD-2024-22743）	高	2024-05-19 00:00:00
+北京亿赛通科技发展有限责任公司数据泄露防护(DLP)系统存在逻辑缺陷漏洞	中	2024-03-22 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统（CDG）存在任意文件读取漏洞	中	2024-06-12 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统存在SQL注入漏洞（CNVD-2024-13551）	高	2024-03-16 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统存在SQL注入漏洞（CNVD-2024-16306）	高	2024-03-24 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统存在信息泄漏漏洞（CNVD-2024-10034）	中	2024-03-07 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统存在信息泄露漏洞（CNVD-2023-86622）	中	2023-12-01 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统存在命令执行漏洞	高	2024-08-06 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统存在命令执行漏洞（CNVD-2023-87982）	高	2024-08-06 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统存在命令执行漏洞（CNVD-2024-06018）	高	2024-01-30 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统存在命令执行漏洞（CNVD-2024-14992）	高	2024-04-06 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统存在命令执行漏洞（CNVD-2024-33965）	高	2024-08-04 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统存在命令执行漏洞（CNVD-2024-38465）	高	2024-09-30 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统存在命令执行漏洞（CNVD-2024-38466）	高	2024-09-30 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统存在文件上传漏洞（CNVD-2024-08166）	高	2024-02-07 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统存在未授权访问漏洞	中	2023-07-05 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统存在未授权访问漏洞（CNVD-2024-08420）	中	2024-02-17 00:00:00
+北京亿赛通科技发展有限责任公司电子文档安全管理系统存在未授权访问漏洞（CNVD-2024-34720）	中	2024-08-26 00:00:00
+北京华清信安科技有限公司Reporter存在任意文件读取漏洞	中	2023-10-20 00:00:00
+北京启明星辰信息安全技术有限公司4A统一安全管控平台存在命令执行漏洞	高	2023-08-28 00:00:00
+北京国炬信息技术有限公司积木报表存在信息泄露漏洞	中	2023-09-07 00:00:00
+北京奥博威斯科技有限公司JeecgBoot存在命令执行漏洞	高	2023-10-02 00:00:00
+北京宏景世纪软件股份有限公司eHR存在SQL注入漏洞	高	2023-04-27 00:00:00
+北京宏景世纪软件股份有限公司人力资源信息管理系统存在SQL注入漏洞（CNVD-2024-34315）	高	2024-08-20 00:00:00
+北京宏景世纪软件股份有限公司人力资源信息管理系统存在SQL注入漏洞（CNVD-2024-34316）	高	2024-08-20 00:00:00
+北京慕华信息科技有限公司学堂在线平台存在XSS漏洞	中	2023-09-09 00:00:00
+北京旷视科技有限公司旷视MEGVII人脸识别通行平台存在未授权访问漏洞	中	2024-01-20 00:00:00
+北京星网锐捷网络技术有限公司EWEB网管系统存在文件上传漏洞	高	2023-07-01 00:00:00
+北京永洪商智科技有限公司Yonghong Z-Suite存在任意文件下载漏洞	中	2024-04-24 00:00:00
+北京永洪商智科技有限公司永洪BI存在文件上传漏洞	高	2024-01-26 00:00:00
+北京永洪商智科技有限公司永洪一站式大数据BI平台存在任意文件读取漏洞	中	2024-03-17 00:00:00
+北京用友政务软件股份有限公司用友财务云存在逻辑缺陷漏洞	高	2023-05-11 00:00:00
+北京神州绿盟科技有限公司DAS绿盟数据库审计系统存在命令执行漏洞	高	2024-04-25 00:00:00
+北京网御星云信息技术有限公司网御上网行为管理系统Leadsec ACM存在SQL注入漏洞	高	2023-09-30 00:00:00
+北京网瑞达科技有限公司WebVPN资源访问控制系统存在SSRF漏洞	中	2023-05-22 00:00:00
+北京致远互联软件股份有限公司致远A8+协同管理软件存在XML实体注入漏洞	中	2024-06-14 00:00:00
+北京超图软件股份有限公司SuperMap iServer存在拒绝服务漏洞	中	2024-08-05 00:00:00
+北京超图软件股份有限公司SuperMap iServer存在文件上传漏洞（CNVD-2023-76221）	高	2024-01-09 00:00:00
+北京超图软件股份有限公司SuperMap iServer存在未授权访问漏洞	中	2024-01-09 00:00:00
+北京超图软件股份有限公司SuperMap iServer存在未授权访问漏洞（CNVD-2023-61163）	中	2024-01-09 00:00:00
+北大医疗信息技术有限公司运营管理与决策支持系统存在XSS漏洞	中	2024-08-31 00:00:00
+南琼考试系统n5存在逻辑缺陷漏洞（CNVD-2023-59091）	中	2023-07-10 00:00:00
+厦门快普信息技术有限公司快普M6整合管理平台系统存在SQL注入漏洞	高	2024-05-16 00:00:00
+厦门快普信息技术有限公司快普M8整合管理平台存在SQL注入漏洞	高	2024-05-18 00:00:00
+厦门纳龙健康科技股份有限公司应用基础服务管理系统存在弱口令漏洞	中	2024-01-08 00:00:00
+四创科技有限公司河长制管理系统存在未授权访问漏洞	中	2023-09-29 00:00:00
+四创科技有限公司综合管理系统存在SQL注入漏洞	高	2023-12-27 00:00:00
+大华DSS系统存在信息泄露漏洞	中	2023-09-06 00:00:00
+大连华天软件有限公司华天动力协同OA办公系统存在文件上传漏洞	高	2023-08-31 00:00:00
+太原易思软件技术有限公司易思无人值守智能物流系统存在SQL注入漏洞（CNVD-2023-96352）	高	2023-12-21 00:00:00
+太原易思软件技术有限公司智能物流无人值守系统存在SQL注入漏洞（CNVD-2023-99600）	高	2023-12-25 00:00:00
+安徽青柿信息科技有限公司LiveGBS存在命令执行漏洞	高	2023-07-02 00:00:00
+安徽青柿信息科技有限公司LiveGBS存在命令执行漏洞（CNVD-2023-59132）	高	2023-07-08 00:00:00
+安徽青柿信息科技有限公司LiveGBS存在未授权访问漏洞	中	2023-05-04 00:00:00
+安徽青柿信息科技有限公司LiveGBS存在逻辑缺陷漏洞（CNVD-2023-72138）	中	2023-10-23 00:00:00
+安徽青柿信息科技有限公司LiveNVS存在未授权访问漏洞	中	2023-10-26 00:00:00
+安徽青柿信息科技有限公司LiveQing存在未授权访问漏洞	中	2023-10-26 00:00:00
+宏景HCM人力资源管理系统存在SQL注入漏洞（CNVD-2023-63835）	高	2023-08-09 00:00:00
+小米科技有限责任公司小米路由器AX9000存在二进制漏洞	高	2024-06-12 00:00:00
+山东中创软件商用中间件股份有限公司inforsuiteAS应用服务器存在文件上传漏洞（CNVD-2023-63818）	高	2023-08-10 00:00:00
+帆软软件有限公司FineReport存在SQL注入漏洞	高	2024-02-07 00:00:00
+帆软软件有限公司FineReport存在命令执行漏洞	高	2024-07-29 00:00:00
+帆软软件有限公司数据决策系统存在弱口令漏洞	中	2024-09-13 00:00:00
+广东中设智控科技股份有限公司ACCMBOS平台存在未授权访问漏洞	中	2024-08-31 00:00:00
+广州万户网络技术有限公司ezEIP存在SQL注入漏洞	高	2024-09-30 00:00:00
+广州市保伦电子有限公司无纸化会议管理系统存在sql注入漏洞	高	2024-08-31 00:00:00
+成都天问互联科技有限公司天问物业ERP系统存在任意文件读取漏洞（CNVD-2024-36506）	中	2024-09-11 00:00:00
+新华三技术有限公司web网管系统存在文件上传漏洞（CNVD-2024-18761）	高	2024-04-25 00:00:00
+新天科技无线GPRS抄表监测管理系统存在弱口令漏洞	中	2023-02-22 00:00:00
+易思智能物流无人值守系统存在任意文件读取漏洞	中	2023-11-12 00:00:00
+普元信息技术股份有限公司业务综合管理平台存在命令执行漏洞（CNVD-2024-24191）	高	2024-06-10 00:00:00
+普元信息技术股份有限公司业务综合管理平台存在命令执行漏洞（CNVD-2024-24193）	高	2024-06-10 00:00:00
+普元信息技术股份有限公司微服务平台存在命令执行漏洞	高	2024-06-06 00:00:00
+杭州合众数据技术有限公司合众视频安全交换接入系统存在命令执行漏洞	高	2024-02-18 00:00:00
+杭州海康威视数字技术股份有限公司iVMS-8700综合安防管理平台存在文件上传漏洞	高	2023-07-03 00:00:00
+杭州贝腾科技有限公司贝腾《创业总动员》创新创业实训平台存在XSS漏洞	中	2024-07-28 00:00:00
+武汉达梦数据库股份有限公司达梦启智大数据可视化系统存在SQL注入漏洞	中	2024-05-04 00:00:00
+江西铭软科技有限公司MCMS存在命令执行漏洞	高	2023-08-17 00:00:00
+泛微ecology9 SQL注入漏洞	高	2023-02-28 00:00:00
+泛雅课堂存在命令执行漏洞	高	2023-09-04 00:00:00
+浙江大华技术股份有限公司DSS存在任意文件下载漏洞（CNVD-2024-10023）	中	2024-03-07 00:00:00
+浙江大华技术股份有限公司DSS存在未授权访问漏洞（CNVD-2024-18338）	中	2024-04-08 00:00:00
+浙江大华技术股份有限公司DSS平安城市系统存在命令执行漏洞	高	2023-10-23 00:00:00
+浙江大华技术股份有限公司DSS监控管理应用平台存在命令执行漏洞	高	2023-08-24 00:00:00
+浙江大华技术股份有限公司城市安防监控DSS系统存在信息泄露漏洞	中	2024-02-25 00:00:00
+浙江大华技术股份有限公司城市安防监控DSS系统存在信息泄露漏洞（CNVD-2024-25769）	中	2024-06-29 00:00:00
+浙江大华技术股份有限公司大华EIMS系统存在命令执行漏洞	高	2024-04-20 00:00:00
+浙江大华技术股份有限公司智慧园区综合管理平台存在SQL注入漏洞	高	2023-10-11 00:00:00
+浙江大华技术股份有限公司智慧园区综合管理平台存在任意文件下载漏洞（CNVD-2024-23621）	中	2024-06-03 00:00:00
+浙江大华技术股份有限公司智慧园区综合管理平台存在信息泄露漏洞（CNVD-2024-14798）	中	2024-04-07 00:00:00
+浙江大华技术股份有限公司智慧园区综合管理平台存在文件上传漏洞（CNVD-2023-03860）	高	2023-01-30 00:00:00
+浙江大华技术股份有限公司智慧园区综合管理平台存在未授权访问漏洞（CNVD-2024-14380）	中	2024-04-04 00:00:00
+浙江大华技术股份有限公司智慧园区综合管理平台存在逻辑缺陷漏洞（CNVD-2023-57620）	中	2023-07-03 00:00:00
+浙江大华技术股份有限公司智能云信息发布系统存在任意文件读取漏洞	中	2023-08-31 00:00:00
+浙江大华技术股份有限公司智能云网关注册管理平台存在SQL注入漏洞（CNVD-2024-38747）	高	2024-10-03 00:00:00
+浙江大华技术股份有限公司智能物联综合管理平台存在逻辑缺陷漏洞（CNVD-2023-36131）	中	2023-04-29 00:00:00
+浙江大华技术股份有限公司车载监控平台存在命令执行漏洞	高	2023-02-06 00:00:00
+浙江大华技术股份有限公司运维管理中心存在逻辑缺陷漏洞	中	2024-09-02 00:00:00
+润申标准化技术服务（上海）有限公司企业标准化管理系统存在SQL注入漏洞	高	2024-09-28 00:00:00
+深信服科技股份有限公司基线核查系统存在信息泄露漏洞	中	2023-07-15 00:00:00
+深圳市捷顺科技实业股份有限公司JieLink+智能终端操作平台存在未授权访问漏洞（CNVD-2024-26830）	中	2024-06-28 00:00:00
+深圳市联软科技股份有限公司联软安全数据交换系统存在任意文件读取漏洞	中	2024-06-28 00:00:00
+深圳市蓝凌软件股份有限公司蓝凌OA存在信息泄露漏洞	中	2024-01-08 00:00:00
+深圳昂楷科技有限公司昂楷数据库审计系统存在弱口令漏洞	中	2023-11-03 00:00:00
+用友GRP-U8存在SQL注入漏洞（CNVD-2023-58024）	高	2023-07-02 00:00:00
+用友NC Cloud存在SQL注入漏洞（CNVD-2024-21815）	中	2024-05-12 00:00:00
+用友NC Cloud存在SQL注入漏洞（CNVD-2024-21816）	中	2024-05-12 00:00:00
+用友NC Cloud存在SQL注入漏洞（CNVD-2024-21817）	中	2024-05-12 00:00:00
+用友NC存在命令执行漏洞	高	2024-05-06 00:00:00
+用友NC存在命令执行漏洞（CNVD-2024-18070）	高	2024-04-22 00:00:00
+用友UAP系统存在信息泄露漏洞	中	2023-12-02 00:00:00
+用友移动系统管理存在文件上传漏洞	高	2023-08-06 00:00:00
+用友网络科技股份有限公司NC Cloud存在远程命令执行漏洞	高	2023-10-12 00:00:00
+用友网络科技股份有限公司U8 Cloud存在SQL注入漏洞（CNVD-2024-22710）	高	2024-05-17 00:00:00
+用友网络科技股份有限公司U8 Cloud存在SQL注入漏洞（CNVD-2024-22713）	高	2024-05-16 00:00:00
+用友网络科技股份有限公司U8 Cloud存在SQL注入漏洞（CNVD-2024-34008）	高	2024-08-19 00:00:00
+用友网络科技股份有限公司U8 Cloud存在SQL注入漏洞（CNVD-2024-36940）	高	2024-09-05 00:00:00
+用友网络科技股份有限公司U8 Cloud存在反序列化漏洞	高	2023-09-06 00:00:00
+用友网络科技股份有限公司U8CRM存在SQL注入漏洞（CNVD-2024-38701）	高	2024-10-02 00:00:00
+用友网络科技股份有限公司U9cloud智能工厂存在弱口令漏洞	中	2024-09-27 00:00:00
+用友网络科技股份有限公司YonBIP存在命令执行漏洞（CNVD-2024-34828）	高	2024-08-28 00:00:00
+用友网络科技股份有限公司用友NC存在SQL注入漏洞（CNVD-2024-28042）	高	2024-07-19 00:00:00
+用友网络科技股份有限公司用友NC存在SQL注入漏洞（CNVD-2024-30550）	高	2024-07-29 00:00:00
+用友网络科技股份有限公司用友NC存在文件上传漏洞（CNVD-2024-35510）	高	2024-09-01 00:00:00
+用友网络科技股份有限公司用友U8+CRM存在SQL注入漏洞（CNVD-2024-38489）	高	2024-09-29 00:00:00
+用友网络科技股份有限公司移动系统管理存在未授权访问漏洞	中	2024-09-05 00:00:00
+畅捷通T+存在命令执行漏洞（CNVD-2024-18952）	高	2024-05-02 00:00:00
+畅捷通信息技术股份有限公司畅捷通T+云主机存在逻辑缺陷漏洞	中	2024-05-03 00:00:00
+畅捷通信息技术股份有限公司畅捷通T+存在SQL注入漏洞（CNVD-2024-24538）	高	2024-06-10 00:00:00
+畅捷通信息技术股份有限公司远程通CHANJET_Remote 2018和远程通CHANJET_Remote 2019存在SQL注入漏洞	高	2023-06-28 00:00:00
+福建省海峡信息技术有限公司Reporter系统存在命令执行漏洞（CNVD-2023-81306）	高	2023-11-02 00:00:00
+福建科立讯通信有限公司指挥调度管理平台存在SQL注入漏洞（CNVD-2024-23806）	高	2024-06-06 00:00:00
+科大讯飞股份有限公司API网关管理系统存在信息泄露漏洞	中	2023-10-12 00:00:00
+绿盟科技集团股份有限公司绿盟日志审计系统存在命令执行漏洞	高	2023-04-21 00:00:00
+绿盟运维安全管理系统存在SQL注入漏洞	中	2023-09-08 00:00:00
+英万齐软件技术（北京）有限公司Ivanti Connect Secure存在命令执行漏洞	高	2024-03-07 00:00:00
+西安瑞友信息技术资讯有限公司瑞友天翼应用虚拟化系统存在SQL注入漏洞（CNVD-2024-23827）	高	2024-06-06 00:00:00
+达梦启云数据库云服务系统存在未授权访问漏洞	中	2024-01-22 00:00:00
+达梦大数据分析平台存在未授权访问漏洞	高	2023-09-02 00:00:00
+远秋医学在线考试系统存在SQL注入漏洞（CNVD-2023-19468）	高	2024-03-27 00:00:00
+重庆小丢科技有限公司轻印自助打印系统存在未授权访问漏洞	中	2023-08-20 00:00:00
+金蝶云星空ERP存在反序列化漏洞	高	2024-03-13 00:00:00
+阿里云计算有限公司边缘控制台存在逻辑缺陷漏洞	中	2023-08-17 00:00:00
+陕西锦华网络科技有限责任公司数字报后台管理系统存在文件上传漏洞	高	2023-09-30 00:00:00
+青岛爱米云软件有限公司悦库企业网盘存在SQL注入漏洞	高	2024-07-29 00:00:00
+高等教育电子音像出版社有限公司在线教学服务平台存在信息泄露漏洞	低	2023-08-31 00:00:00
