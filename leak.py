@@ -7,7 +7,7 @@ import time
 connection = pymysql.connect(
     host='localhost',
     user='root',
-    password='123.com',
+    password='******',
     database='hgu',
     charset='utf8mb4',
     cursorclass=pymysql.cursors.DictCursor
