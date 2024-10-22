@@ -1,62 +1,100 @@
-from scapy.all import sniff
-from scapy.layers.inet import IP, TCP, UDP
-
-# 标志变量，用于判断是否已经捕获到TCP和UDP包
-tcp_captured = False
-udp_captured = False
+import struct
+import socket
 
 
-# 解析并输出 TCP 头信息
-def parse_tcp_packet(packet):
-    tcp_layer = packet[TCP]
-    print("\n=== TCP Packet ===")
-    print(f"Source Port: {tcp_layer.sport}")
-    print(f"Destination Port: {tcp_layer.dport}")
-    print(f"Sequence Number: {tcp_layer.seq}")
-    print(f"Acknowledgment Number: {tcp_layer.ack}")
-    print(f"Data Offset: {tcp_layer.dataofs * 4} bytes")
-    print(f"Flags: {tcp_layer.flags}")
-    print(f"Window Size: {tcp_layer.window}")
-    print(f"Checksum: {tcp_layer.chksum}")
-    print(f"Urgent Pointer: {tcp_layer.urgptr}")
+def parse_tcp_header(packet):
+    # TCP 头部长度为最少 20 字节
+    tcp_header = packet[:20]
+
+    # 解析 TCP 头部
+    (
+        source_port,
+        dest_port,
+        seq_number,
+        ack_number,
+        data_offset_reserved_flags,
+        flags,
+        window_size,
+        checksum,
+        urgent_pointer,
+    ) = struct.unpack("!HHLLBBHHH", tcp_header)
+
+    # 提取头部长度 (data_offset: 高4位，表示头部长度，单位是4字节)
+    data_offset = (data_offset_reserved_flags >> 4) * 4
+
+    # 提取标志位
+    urg = (flags & 0x20) >> 5
+    ack = (flags & 0x10) >> 4
+    psh = (flags & 0x08) >> 3
+    rst = (flags & 0x04) >> 2
+    syn = (flags & 0x02) >> 1
+    fin = flags & 0x01
+
+    print("=== TCP Header Information ===")
+    print(f"Source Port: {source_port}")
+    print(f"Destination Port: {dest_port}")
+    print(f"Sequence Number: {seq_number}")
+    print(f"Acknowledgment Number: {ack_number}")
+    print(f"Header Length: {data_offset} bytes")
+    print(f"Flags: URG={urg}, ACK={ack}, PSH={psh}, RST={rst}, SYN={syn}, FIN={fin}")
+    print(f"Window Size: {window_size}")
+    print(f"Checksum: {checksum}")
+    print(f"Urgent Pointer: {urgent_pointer}\n")
 
 
-# 解析并输出 UDP 头信息
-def parse_udp_packet(packet):
-    udp_layer = packet[UDP]
-    print("\n=== UDP Packet ===")
-    print(f"Source Port: {udp_layer.sport}")
-    print(f"Destination Port: {udp_layer.dport}")
-    print(f"Length: {udp_layer.len}")
-    print(f"Checksum: {udp_layer.chksum}")
+def parse_udp_header(packet):
+    # UDP 头部长度为 8 字节
+    udp_header = packet[:8]
+
+    # 解析 UDP 头部
+    source_port, dest_port, length, checksum = struct.unpack("!HHHH", udp_header)
+
+    print("=== UDP Header Information ===")
+    print(f"Source Port: {source_port}")
+    print(f"Destination Port: {dest_port}")
+    print(f"Length: {length} bytes")
+    print(f"Checksum: {checksum}\n")
 
 
-# 根据协议类型解析数据包
-def packet_handler(packet):
-    global tcp_captured, udp_captured
+def capture_packet():
+    # 创建原始套接字（需要管理员权限）
+    sniffer = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket.IPPROTO_IP)
 
-    if IP in packet:
-        ip_layer = packet[IP]
-        print(f"\nSource IP: {ip_layer.src}")
-        print(f"Destination IP: {ip_layer.dst}")
-        print(f"Protocol: {ip_layer.proto}")
+    # 绑定到本地网络接口 (可以根据情况修改为具体的网络接口)
+    sniffer.bind(("0.0.0.0", 0))
 
-        if TCP in packet and not tcp_captured:
-            parse_tcp_packet(packet)
-            tcp_captured = True
-        elif UDP in packet and not udp_captured:
-            parse_udp_packet(packet)
-            udp_captured = True
+    # 接收所有 IP 包
+    sniffer.setsockopt(socket.IPPROTO_IP, socket.IP_HDRINCL, 1)
 
-    # 如果已经捕获到一个 TCP 和一个 UDP 包，则停止捕获
-    return tcp_captured and udp_captured
+    tcp_packet_captured = False
+    udp_packet_captured = False
+
+    try:
+        while not (tcp_packet_captured and udp_packet_captured):
+            # 捕获一个数据包
+            raw_packet, addr = sniffer.recvfrom(65565)
+
+            # IP 头部长度
+            ip_header = raw_packet[:20]
+            ip_proto = struct.unpack("!BBHHHBBH4s4s", ip_header)[6]
+
+            # 判断协议类型
+            if ip_proto == 6 and not tcp_packet_captured:  # TCP (protocol number 6)
+                print("TCP packet captured:")
+                parse_tcp_header(raw_packet[20:])  # 跳过IP头部，解析TCP头部
+                tcp_packet_captured = True
+
+            elif ip_proto == 17 and not udp_packet_captured:  # UDP (protocol number 17)
+                print("UDP packet captured:")
+                parse_udp_header(raw_packet[20:])  # 跳过IP头部，解析UDP头部
+                udp_packet_captured = True
+
+    except KeyboardInterrupt:
+        print("Stopping packet capture...")
+
+    finally:
+        sniffer.close()
 
 
-def main():
-    # 捕获 IP 数据包，解析 TCP 和 UDP 协议
-    print("Capturing one TCP packet and one UDP packet...")
-    sniff(prn=packet_handler, filter="ip", store=0, stop_filter=packet_handler)
-
-
-if __name__ == "__main__":
-    main()
+# 运行捕获函数，只捕获一个TCP和一个UDP数据包
+capture_packet()
