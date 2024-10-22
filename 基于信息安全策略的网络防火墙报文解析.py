@@ -3,7 +3,7 @@ from scapy.layers.inet import IP
 
 
 def parse_ip_packet(packet):
-    # 判断数据包中是否有 IP 层
+    # 判断数据包中是否有IP层
     if IP in packet:
         ip_layer = packet[IP]
         print(f"Source IP: {ip_layer.src}")
@@ -16,7 +16,7 @@ def parse_ip_packet(packet):
 
 
 def main():
-    # 只捕获一个 IP 包
+    # 捕获一个IP包
     print("Capturing one IP packet...")
     sniff(prn=parse_ip_packet, filter="ip", count=1, store=0)
 
