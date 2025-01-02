@@ -2,7 +2,7 @@ from sklearn import model_selection, preprocessing, linear_model, naive_bayes, m
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn import decomposition, ensemble
 import pandas, xgboost, numpy, textblob, string
-from keras.preprocessing import text, sequence
+from tensorflow.keras.preprocessing import text, sequence
 from keras import layers, models, optimizers
 import os
 from gensim.models import Word2Vec
@@ -131,4 +131,3 @@ if __name__ == '__main__':
     classifier = create_model_architecture(xtrain_tfidf_ngram.shape[1])
     accuracy = train_model(classifier, xtrain_tfidf_ngram, train_y, xvalid_tfidf_ngram, is_neural_net=True)
     print("NN, Ngram Level TF IDF Vectors", accuracy)
-
